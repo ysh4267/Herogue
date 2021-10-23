@@ -2,14 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MapGenData : MonoBehaviour {
-    public int x, y;
-    public bool isClear = false;
-    public bool rightRoom = false;
-    public bool leftRoom = false;
-    public bool downRoom = false;
-    public bool upRoom = false;
-
+public class RoomObjectController : MonoBehaviour {
     [SerializeField] GameObject EastDoorObject = null;
     [SerializeField] GameObject WestDoorObject = null;
     [SerializeField] GameObject NorthDoorObject = null;
@@ -23,12 +16,18 @@ public class MapGenData : MonoBehaviour {
     [SerializeField] GameObject NorthWallObject = null;
     [SerializeField] GameObject SouthWallObject = null;
 
-    public void SetMapPoint(int _x, int _y) {
-        x = _x;
-        y = _y;
+
+    // Start is called before the first frame update
+    void Start() {
+
     }
 
-    public void DirectionalInfoUpdate() {
+    // Update is called once per frame
+    void Update() {
+
+    }
+
+    public void DirectionalInfoUpdate(bool rightRoom, bool leftRoom, bool upRoom, bool downRoom) {
         EastWallObject.SetActive(true);
         WestWallObject.SetActive(true);
         NorthWallObject.SetActive(true);
