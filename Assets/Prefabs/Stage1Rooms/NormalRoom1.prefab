@@ -72,6 +72,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0555676744d90584095ff281182aac65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  roomType: 0
   x: 0
   y: 0
 --- !u!1001 &8142413345000550700
@@ -81,9 +82,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 11336762685777537}
     m_Modifications:
+    - target: {fileID: 4467426366921704540, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 5803334776735728428, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 5841464837774073449, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 7462285275295132874, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 7462285275491036382, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
       propertyPath: m_Name
       value: MapBase
+      objectReference: {fileID: 0}
+    - target: {fileID: 7462285275491036382, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
+      propertyPath: m_TagString
+      value: Wall
       objectReference: {fileID: 0}
     - target: {fileID: 7462285275491036383, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
       propertyPath: m_RootOrder
@@ -128,6 +149,10 @@ PrefabInstance:
     - target: {fileID: 7462285275491036383, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7508896845844752153, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 194448727742503956, guid: a0a6ae534790a094e9437dad81e47f8c, type: 3}

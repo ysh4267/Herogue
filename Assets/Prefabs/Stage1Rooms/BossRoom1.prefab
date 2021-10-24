@@ -72,6 +72,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0555676744d90584095ff281182aac65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  roomType: 0
   x: 0
   y: 0
 --- !u!1001 &6062602672517468315
@@ -81,6 +82,54 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8761900699152001507}
     m_Modifications:
+    - target: {fileID: 1362007396346235302, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 1553417888258246604, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 2022896121907916143, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 3855357294369501639, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 4222526327001504160, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339512620866087563, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339512621287594905, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339512622240790022, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 4643356904793790646, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 4820089697136170140, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 5426363590190945170, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 5469923452700112114, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
     - target: {fileID: 5469923453635447630, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -132,6 +181,22 @@ PrefabInstance:
     - target: {fileID: 5469923453635447631, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821477030956229187, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 7088948592750343895, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163309976344727327, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 7607391359097751921, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}
+      propertyPath: m_TagString
+      value: Wall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3429858d02d441b40b72b4d455a3c4e6, type: 3}

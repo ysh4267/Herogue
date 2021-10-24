@@ -15,7 +15,7 @@ public class RoomGenerater : MonoBehaviour {
     //방으로 사용할 프리펩리스트와 만들어진 방 오브젝트 리스트
     [SerializeField] GameObject bossRoomObjectPrefab;
     [SerializeField] GameObject startRoomObjectPrefab;
-    [SerializeField] List<GameObject> roomObjectPrefab;
+    [SerializeField] List<GameObject> normalRoomObjectPrefab;
     [SerializeField] List<RoomData> roomDataList = new List<RoomData>();
 
     //랜덤맵 생성을 위한 변수
@@ -92,7 +92,7 @@ public class RoomGenerater : MonoBehaviour {
     void CreateNormalRoom() {
         foreach (var item in roomDataList) {
             if (item.roomType == RoomData.RoomType.NormalRoom) {
-                item.InstantiateRoomPrefab(roomObjectPrefab[0]); //맵의 실질적인 오브젝트 프리펩 삽입
+                item.InstantiateRoomPrefab(normalRoomObjectPrefab[Random.Range(0, normalRoomObjectPrefab.Count)]); //맵의 실질적인 오브젝트 프리펩 삽입
             }
         }
         
