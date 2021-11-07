@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterTarget : MonoBehaviour {
+public class PlayerTarget : MonoBehaviour {
+    [SerializeField] PlayerBase playerBase;
     [SerializeField] Transform AttackPosition;
     [SerializeField] GameObject bulletPrefab;
 
@@ -18,6 +19,7 @@ public class CharacterTarget : MonoBehaviour {
     }
 
     void AtkFire() {
-        Instantiate(bulletPrefab, AttackPosition.position, transform.rotation); //AttackPoint지점에서 PlayerBullet을 생성후 발사함
+        GameObject bulletObject = Instantiate(bulletPrefab, AttackPosition.position, transform.rotation);
+        bulletObject.GetComponent<PlayerBullet>().InitBullet(playerBase.bulletSpd, playerBase.bulletRange, playerBase.attackDmg); //AttackPoint지점에서 PlayerBullet을 생성후 발사함
     }
 }

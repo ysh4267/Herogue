@@ -15,11 +15,11 @@ C:/Users/양지훈/Desktop/Herogue
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-13264
+5383
 Successfully changed project path to: C:/Users/양지훈/Desktop/Herogue
 C:/Users/양지훈/Desktop/Herogue
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 23.70 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 22.67 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.20f1 (41c4e627c95f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Resources/UnitySubsystems
@@ -35,37 +35,37 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56580
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56292
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001500 seconds.
+Registered in 0.001436 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 21.76 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 22.06 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.519 seconds
+- Completed reload, in  1.561 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1519ms)
-		BeginReloadAssembly (37ms)
+	ReloadAssembly (1561ms)
+		BeginReloadAssembly (36ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (287ms)
-			LoadAssemblies (36ms)
+		EndReloadAssembly (267ms)
+			LoadAssemblies (35ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (101ms)
+			SetupTypeCache (92ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (19ms)
-			SetupLoadedEditorAssemblies (114ms)
+			RebuildScriptCaches (18ms)
+			SetupLoadedEditorAssemblies (107ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (22ms)
-				BeforeProcessingInitializeOnLoad (10ms)
-				ProcessInitializeOnLoadAttributes (59ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (53ms)
 				ProcessInitializeOnLoadMethodAttributes (19ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -73,51 +73,51 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002073 seconds.
+Registered in 0.001912 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.689 seconds
+- Completed reload, in  0.636 seconds
 Domain Reload Profiling:
-	ReloadAssembly (690ms)
-		BeginReloadAssembly (98ms)
+	ReloadAssembly (637ms)
+		BeginReloadAssembly (94ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (542ms)
-			LoadAssemblies (60ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (501ms)
+			LoadAssemblies (57ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (179ms)
+			SetupTypeCache (162ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (215ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (201ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (65ms)
-				ProcessInitializeOnLoadAttributes (138ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (129ms)
 				ProcessInitializeOnLoadMethodAttributes (3ms)
-				AfterProcessingInitializeOnLoad (4ms)
+				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1417 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 66.9 MB.
-System memory in use after: 66.9 MB.
+Unloading 1414 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.8 MB.
+System memory in use after: 67.8 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1856.
-Total: 3.017900 ms (FindLiveObjects: 0.256800 ms CreateObjectMapping: 0.036600 ms MarkObjects: 2.658200 ms  DeleteObjects: 0.065400 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1854.
+Total: 2.259000 ms (FindLiveObjects: 0.198500 ms CreateObjectMapping: 0.028300 ms MarkObjects: 1.976800 ms  DeleteObjects: 0.054600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,9 +131,345 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/Enemy
-  artifactKey: Guid(f83a28fb5e0b3c4478791b016e4db505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Enemy using Guid(f83a28fb5e0b3c4478791b016e4db505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b9ad839e6e089bfb4f4c1756fdd01a') in 0.008803 seconds 
-  Import took 0.011752 seconds .
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/DragonPBR.prefab
+  artifactKey: Guid(33eba0da32885b84ebf38245df0735fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/DragonPBR.prefab using Guid(33eba0da32885b84ebf38245df0735fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20c70040656f9608a624470d3c6c1f9') in 0.251095 seconds 
+  Import took 0.254645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/SlimePBR.prefab
+  artifactKey: Guid(e5bf32a70c2e58f4f9ec61dad9659a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/SlimePBR.prefab using Guid(e5bf32a70c2e58f4f9ec61dad9659a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfbf8b7859f21fea4d565a3659aee49') in 0.034058 seconds 
+  Import took 0.037011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault
+  artifactKey: Guid(30e7b3d490e256f459e11a018cd4a1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault using Guid(30e7b3d490e256f459e11a018cd4a1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6ec86144ae447f433c3c4620f7f09f') in 0.004172 seconds 
+  Import took 0.005925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/BatPBR.prefab
+  artifactKey: Guid(e2ce315c37e32fd4b9d2fd8f2d56a7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/BatPBR.prefab using Guid(e2ce315c37e32fd4b9d2fd8f2d56a7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69bbadb3fd0d1fd462a3c93392f11f29') in 0.025411 seconds 
+  Import took 0.029051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/EvilMagePBR.prefab
+  artifactKey: Guid(f397a44c833ad65409eba4bce5ea62ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/EvilMagePBR.prefab using Guid(f397a44c833ad65409eba4bce5ea62ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8806edbaff6d937fa289ab048d305263') in 0.037801 seconds 
+  Import took 0.041661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/GolemPBR.prefab
+  artifactKey: Guid(45f36e2270151a542be4982f9f1dd581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/GolemPBR.prefab using Guid(45f36e2270151a542be4982f9f1dd581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f26d567f83d5640eb858b996c80edf') in 0.032578 seconds 
+  Import took 0.037010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs
+  artifactKey: Guid(6930d1f6634655547954566e89304020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs using Guid(6930d1f6634655547954566e89304020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13c6ca44d0991d26170ac5aa5844885f') in 0.004830 seconds 
+  Import took 0.006813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/TurtleShellPBR.prefab
+  artifactKey: Guid(ad121b684e3934947a2d412b4202d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/TurtleShellPBR.prefab using Guid(ad121b684e3934947a2d412b4202d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc7472224448ee4b0382984762dfd08') in 0.036625 seconds 
+  Import took 0.042402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/SkeletonPBR.prefab
+  artifactKey: Guid(ebf2cc118768d314988702254deb07a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/SkeletonPBR.prefab using Guid(ebf2cc118768d314988702254deb07a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2961bf796c52832c667ad094b0a3b4b1') in 0.038059 seconds 
+  Import took 0.043103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/MonsterPlantPBR.prefab
+  artifactKey: Guid(fb6e154907ded46479e5d7ff1c7ef748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/MonsterPlantPBR.prefab using Guid(fb6e154907ded46479e5d7ff1c7ef748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8709b5f892f7e872c1688074717c8659') in 0.028725 seconds 
+  Import took 0.032778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/SpiderPBR.prefab
+  artifactKey: Guid(a81cfdb3f3b757345a955fb9947163c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/SpiderPBR.prefab using Guid(a81cfdb3f3b757345a955fb9947163c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4c281b8105adc77ffd77c3df1dd4fe8') in 0.026546 seconds 
+  Import took 0.030325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/OrcPBR.prefab
+  artifactKey: Guid(3e08eaa99fbf41647adc835cdda0472a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRDefault/OrcPBR.prefab using Guid(3e08eaa99fbf41647adc835cdda0472a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00ad49cc8fd59d4e8551827b70050f0') in 0.028434 seconds 
+  Import took 0.032526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint
+  artifactKey: Guid(d9c5492a0642bcb428ae6a72672ef9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint using Guid(d9c5492a0642bcb428ae6a72672ef9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd78bf513f2ab333bf259327b4af0ae28') in 0.004068 seconds 
+  Import took 0.005776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.222429 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/BatPBRMaskTint.prefab
+  artifactKey: Guid(b97c205a111279943ac20347be85b32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/BatPBRMaskTint.prefab using Guid(b97c205a111279943ac20347be85b32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e54b37c285a3934f09d3ec63e7ae33') in 0.164581 seconds 
+  Import took 0.168251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/OrcPBRMaskTint.prefab
+  artifactKey: Guid(c282d043ab483824dbc609990acb217d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/OrcPBRMaskTint.prefab using Guid(c282d043ab483824dbc609990acb217d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444f2016f6e302e6b55552ac4358583c') in 0.037386 seconds 
+  Import took 0.041127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/SkeletonPBRMaskTint.prefab
+  artifactKey: Guid(b8aaf128368760b4ca2a7b855dc1cbcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/SkeletonPBRMaskTint.prefab using Guid(b8aaf128368760b4ca2a7b855dc1cbcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf4684db32faf4fd98911690dc5eac2') in 0.030252 seconds 
+  Import took 0.034252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/MonsterPlantPBRMaskTint.prefab
+  artifactKey: Guid(cada986a27525df4fa3dd09e9c14d334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/MonsterPlantPBRMaskTint.prefab using Guid(cada986a27525df4fa3dd09e9c14d334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7105838831e2aab137776f1a8a75bc') in 0.027872 seconds 
+  Import took 0.031856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/SlimePBRMaskTint.prefab
+  artifactKey: Guid(1cf605c698d5fec4cafabfe0b22d1e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/SlimePBRMaskTint.prefab using Guid(1cf605c698d5fec4cafabfe0b22d1e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ccde364fad4b57500f88084cc85a9c') in 0.025566 seconds 
+  Import took 0.028815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/TurtleShellPBRMaskTint.prefab
+  artifactKey: Guid(7c9bfb8ed9be04a4d8d6dab7bcb6e886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/TurtleShellPBRMaskTint.prefab using Guid(7c9bfb8ed9be04a4d8d6dab7bcb6e886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3341bd6d8784d81da88b33690fe1bab') in 0.025097 seconds 
+  Import took 0.028656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/GolemPBRMaskTint.prefab
+  artifactKey: Guid(f3b95817c755ea344acaaf3a7159ef49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/GolemPBRMaskTint.prefab using Guid(f3b95817c755ea344acaaf3a7159ef49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3b092fb2157e1fddd8db5e71b1f535') in 0.028916 seconds 
+  Import took 0.032686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/DragonPBRMaskTint.prefab
+  artifactKey: Guid(d5a2c78723409a647af519d34980ed50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/DragonPBRMaskTint.prefab using Guid(d5a2c78723409a647af519d34980ed50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32552f1e626727d4d377d860c7c6c264') in 0.026653 seconds 
+  Import took 0.030187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/SpiderPBRMaskTint.prefab
+  artifactKey: Guid(369d4450a0bdf8e41b4109360c35876a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/SpiderPBRMaskTint.prefab using Guid(369d4450a0bdf8e41b4109360c35876a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d3e9233e43964e38bc048d9b307489') in 0.026828 seconds 
+  Import took 0.030484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/EvilMagePBRMaskTint.prefab
+  artifactKey: Guid(811751be1d786084b9873353df4d23ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Prefabs/PBRMaskTint/EvilMagePBRMaskTint.prefab using Guid(811751be1d786084b9873353df4d23ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64aa15d35e273ddcb595ab7aa61a22f0') in 0.035452 seconds 
+  Import took 0.040145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 244.452990 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/BatMesh.fbx
+  artifactKey: Guid(ad1ae03d33f04374cbfa1a4e4f957090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/BatMesh.fbx using Guid(ad1ae03d33f04374cbfa1a4e4f957090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38bc25758f92898e6dace0c63beb721d') in 0.057572 seconds 
+  Import took 0.060404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/OrcMesh.fbx
+  artifactKey: Guid(73d2f4319473c3948940539f22e8ae4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/OrcMesh.fbx using Guid(73d2f4319473c3948940539f22e8ae4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4892a75159c2eb427f28b06ef25e61') in 0.045360 seconds 
+  Import took 0.047592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/SlimeMesh.fbx
+  artifactKey: Guid(84c24e29d2b1df84ba59de5c880a7320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/SlimeMesh.fbx using Guid(84c24e29d2b1df84ba59de5c880a7320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a205869bcf12578d149796507c4ab106') in 0.027936 seconds 
+  Import took 0.030078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/GolemMesh.fbx
+  artifactKey: Guid(fdd223089abef8e4d919be1b750e3dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/GolemMesh.fbx using Guid(fdd223089abef8e4d919be1b750e3dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d37c957d0b75eba4ed95782c9ab734') in 0.016060 seconds 
+  Import took 0.017975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/StageMesh.fbx
+  artifactKey: Guid(38c7340d5facd7e47aa420b7a1f6d784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/StageMesh.fbx using Guid(38c7340d5facd7e47aa420b7a1f6d784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294c9455ceb7ca9097eb9100c31206fe') in 0.011165 seconds 
+  Import took 0.012905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/DragonMesh.fbx
+  artifactKey: Guid(cb9b42e070410f846a64d397a7613464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/DragonMesh.fbx using Guid(cb9b42e070410f846a64d397a7613464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa8d809d8abbb17b883d0e84d341c746') in 0.018256 seconds 
+  Import took 0.020464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/EvilMageMesh.fbx
+  artifactKey: Guid(c494d9eff8644a94683dfd34b29171e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/EvilMageMesh.fbx using Guid(c494d9eff8644a94683dfd34b29171e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662c003a14cd15a674d6ff78f7fc8c3b') in 0.028536 seconds 
+  Import took 0.031264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/TurtleShellMesh.fbx
+  artifactKey: Guid(7c4b22e2d97cfa94c915a365dba814fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/TurtleShellMesh.fbx using Guid(7c4b22e2d97cfa94c915a365dba814fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfdef254475f500e6108dc001f1a58a') in 0.019813 seconds 
+  Import took 0.022352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/SpiderMesh.fbx
+  artifactKey: Guid(c5f524b1573843246aa751dbee623cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/SpiderMesh.fbx using Guid(c5f524b1573843246aa751dbee623cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f20abdc80e72fcc99efe7f2fbc1842e3') in 0.026460 seconds 
+  Import took 0.028690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/MonsterPlantMesh.fbx
+  artifactKey: Guid(4310b6865af0c6d4585f67cd7554d443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/MonsterPlantMesh.fbx using Guid(4310b6865af0c6d4585f67cd7554d443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b4ed480a6ce25f39238cba339239c7') in 0.025534 seconds 
+  Import took 0.028068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/SkeletonMesh.fbx
+  artifactKey: Guid(981abb089aed35b47ba9c72dde91f1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Meshes/SkeletonMesh.fbx using Guid(981abb089aed35b47ba9c72dde91f1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced9114f550690636057a1fbaeacbc59') in 0.044793 seconds 
+  Import took 0.047232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.579402 seconds.
+  path: Assets/ExternalAsset/RPG Monster Wave PBR/Animators/Slime.controller
+  artifactKey: Guid(fb53b4d3a4f06844c90da7297e9082de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/RPG Monster Wave PBR/Animators/Slime.controller using Guid(fb53b4d3a4f06844c90da7297e9082de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44004f659cd6208c7230a140ea321fc2') in 0.013973 seconds 
+  Import took 0.017105 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002018 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.625 seconds
+Domain Reload Profiling:
+	ReloadAssembly (625ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (505ms)
+			LoadAssemblies (54ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (173ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (187ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (119ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1407 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.3 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1867.
+Total: 2.519900 ms (FindLiveObjects: 0.138300 ms CreateObjectMapping: 0.027800 ms MarkObjects: 2.333300 ms  DeleteObjects: 0.019500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2268.671907 seconds.
+  path: Assets/ExternalAsset/Character_Witch_Dragon/Models/ChaWitch/Motions/ChaWitch.controller
+  artifactKey: Guid(d1a67fe3f9f53264fa240cdce010e352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalAsset/Character_Witch_Dragon/Models/ChaWitch/Motions/ChaWitch.controller using Guid(d1a67fe3f9f53264fa240cdce010e352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82ce55357d9ba9030ff152ea2a0bf100') in 0.024590 seconds 
+  Import took 0.027685 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

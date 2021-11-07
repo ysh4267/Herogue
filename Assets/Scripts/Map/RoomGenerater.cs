@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class RoomGenerater : MonoBehaviour {
     //맵 사이즈
@@ -16,7 +17,8 @@ public class RoomGenerater : MonoBehaviour {
     [SerializeField] GameObject bossRoomObjectPrefab;
     [SerializeField] GameObject startRoomObjectPrefab;
     [SerializeField] List<GameObject> normalRoomObjectPrefab;
-    [SerializeField] List<RoomData> roomDataList = new List<RoomData>();
+    List<RoomData> roomDataList = new List<RoomData>();
+    List<GameObject> roomInstObjectList = new List<GameObject>();
 
     //랜덤맵 생성을 위한 변수
     bool[,] roomGenPosition = new bool[XSize + 1, YSize + 1];
@@ -34,12 +36,28 @@ public class RoomGenerater : MonoBehaviour {
 
     void GenerateRoom() {
         InitiallizeRoomGenPosition();
+        InitiallizeRoomDataList();
 
         CreateStartRoom();
         GenerateRoomPoint(roomSize);
 
         CreateBossRoom();
         CreateNormalRoom();
+
+        roomInstObjectList[0].GetComponent<NavMeshSurface>().BuildNavMesh();
+
+        foreach (var data in roomDataList) {
+            data.DirectionalInfoUpdate();
+        }
+
+        //BuildRoomNavMash();
+    }
+
+    void BuildRoomNavMash() {
+        foreach (var item in roomInstObjectList)
+        {
+            item.GetComponent<NavMeshSurface>().BuildNavMesh();
+        }
     }
 
     void CreateStartRoom() {
@@ -50,10 +68,12 @@ public class RoomGenerater : MonoBehaviour {
         RoomData tempRoomData = new RoomData();
         tempRoomData.SetRoomPoint(5, 5);
         tempRoomData.roomType = RoomData.RoomType.StartRoom;
-        tempRoomData.InstantiateRoomPrefab(startRoomObjectPrefab);
+
+        roomInstObjectList.Add(tempRoomData.InstantiateRoomPrefab(startRoomObjectPrefab));
         roomDataList.Add(tempRoomData);
     }
 
+    //보스방 생성
     void CreateBossRoom() {
         foreach (RoomData roomData in roomDataList) {
             //시작지점이 아니라면
@@ -65,16 +85,16 @@ public class RoomGenerater : MonoBehaviour {
                         //대각선이 비어있다면
                         if (roomGenPosition[roomData.x + 1, roomData.y - 1] == false) {
                             roomData.roomType = RoomData.RoomType.BossRoom;
-                            roomData.InstantiateRoomPrefab(bossRoomObjectPrefab);
-                            roomData.DirectionalInfoUpdate();
+                            roomInstObjectList.Add(roomData.InstantiateRoomPrefab(bossRoomObjectPrefab));
+                            //roomData.DirectionalInfoUpdate();
                             return;
                         }
                     }
                     //맵의 끝부분이라면
                     else {
                         roomData.roomType = RoomData.RoomType.BossRoom;
-                        roomData.InstantiateRoomPrefab(bossRoomObjectPrefab);
-                        roomData.DirectionalInfoUpdate();
+                        roomInstObjectList.Add(roomData.InstantiateRoomPrefab(bossRoomObjectPrefab));
+                        //roomData.DirectionalInfoUpdate();
                         return;
                     }
                 }
@@ -85,20 +105,21 @@ public class RoomGenerater : MonoBehaviour {
         RoomData tempRoomData = new RoomData();
         tempRoomData.SetRoomPoint(5, 6);
         tempRoomData.roomType = RoomData.RoomType.BossRoom;
-        tempRoomData.InstantiateRoomPrefab(bossRoomObjectPrefab);
+        roomInstObjectList.Add(tempRoomData.InstantiateRoomPrefab(bossRoomObjectPrefab));
         roomDataList.Add(tempRoomData);
     }
 
+    //노말방 생성
     void CreateNormalRoom() {
         foreach (var item in roomDataList) {
             if (item.roomType == RoomData.RoomType.NormalRoom) {
-                item.InstantiateRoomPrefab(normalRoomObjectPrefab[Random.Range(0, normalRoomObjectPrefab.Count)]); //맵의 실질적인 오브젝트 프리펩 삽입
+                roomInstObjectList.Add(item.InstantiateRoomPrefab(normalRoomObjectPrefab[Random.Range(0, normalRoomObjectPrefab.Count)])); //맵의 실질적인 오브젝트 프리펩 삽입
             }
         }
         
         //방들의 위치정보를 기반으로 길을 생성
         foreach (var data in roomDataList) {
-            data.DirectionalInfoUpdate();
+            //data.DirectionalInfoUpdate();
         }
     }
 
@@ -143,6 +164,13 @@ public class RoomGenerater : MonoBehaviour {
         }
 
         roomGenPositionIndexList.Clear();
+    }
+
+    void InitiallizeRoomDataList() {
+        roomDataList.Clear();
+        roomInstObjectList.Clear();
+        roomDataList = new List<RoomData>();
+        roomInstObjectList = new List<GameObject>();
     }
 
     //랜덤한 방 위치 선정

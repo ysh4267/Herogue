@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class RoomData {
     public enum RoomType {
@@ -31,13 +32,14 @@ public class RoomData {
         roomObject.GetComponent<RoomCondition>().roomObjectController.DirectionalInfoUpdate(rightRoom, leftRoom, upRoom, downRoom);
     }
 
-    public void InstantiateRoomPrefab(GameObject roomPrefab) {
+    public GameObject InstantiateRoomPrefab(GameObject roomPrefab) {
         if (roomObject != null) MonoBehaviour.Destroy(roomObject);
         roomObject = MonoBehaviour.Instantiate(roomPrefab, new Vector3((x - 5) * Xgap, 0, (y - 5) * Ygap), Quaternion.identity);
         roomObject.GetComponent<RoomCordinate>().x = x;
         roomObject.GetComponent<RoomCordinate>().y = y;
         roomObject.GetComponent<RoomCordinate>().roomType = roomType;
-        
+        //roomObject.GetComponent<NavMeshSurface>().BuildNavMesh();
+        return roomObject;
     }
 
     public void IntializeRoomData(RoomData _mapGenData) {

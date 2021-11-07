@@ -2,27 +2,28 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterBullet : MonoBehaviour {
+public class PlayerBullet : MonoBehaviour {
 
     Vector3 newDir;
-    public float bulletSpd = 30f;
+    public float bulletSpd;
+    public float bulletRange;
+    public float bulletDamage;
 
     // Start is called before the first frame update
     void Start() {
-        newDir = transform.forward;
-        GetComponent<Rigidbody>().velocity = newDir * bulletSpd;
-        Destroy(gameObject, 3.5f);
+        
     }
 
-    // void OnTriggerEnter(Collider other) {
-    //     if (other.transform.CompareTag("Wall") || other.transform.CompareTag("Monster")) {
-    //         //벽또는 몬스터에 닿았을때
-    //         GetComponent<Rigidbody>().velocity = Vector3.zero;
-    //         Destroy(gameObject, 0.05f);
-    //     }
-    // }
+    public void InitBullet(float _bulletSpd, float _bulletRange, float _bulletDamage) {
+        bulletSpd = _bulletSpd;
+        bulletRange = _bulletRange;
+        bulletDamage = _bulletDamage;
 
-    //|| collision.transform.CompareTag("Monster")
+        Destroy(gameObject, bulletRange);
+        newDir = transform.forward;
+        GetComponent<Rigidbody>().velocity = newDir * bulletSpd;
+    }
+
     void OnCollisionEnter(Collision collision) {
         if (collision.transform.CompareTag("Wall")) {
             //벽에 닿았을때
@@ -37,11 +38,6 @@ public class CharacterBullet : MonoBehaviour {
                 Destroy(gameObject);
             }
         }
-        // if (collision.transform.CompareTag("Player")) {
-        //     //플레이어에 닿았을때
-        //     GetComponent<Rigidbody>().velocity = Vector3.zero;
-        //     Destroy(gameObject, 0.05f);
-        // }
     }
 
     // Update is called once per frame
