@@ -34,7 +34,7 @@ public class CharacterBullet : MonoBehaviour {
             //없다면
             else {
                 GetComponent<Rigidbody>().velocity = Vector3.zero;
-                Destroy(gameObject, 0.05f);
+                Destroy(gameObject);
             }
         }
         // if (collision.transform.CompareTag("Player")) {
