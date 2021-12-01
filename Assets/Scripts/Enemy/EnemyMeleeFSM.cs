@@ -78,7 +78,7 @@ public class EnemyMeleeFSM : EnemyBase {
         yield return new WaitForSeconds(0.25f); //0.25초의 플레이어가 회피가능한 시간
 
         navMeshAgent.isStopped = false; //다시 내비메쉬를 켬
-        navMeshAgent.speed = 30f; //30의속도로 돌진
+        navMeshAgent.speed = 100f; //30의속도로 돌진
         canAtk = false; //공격쿨타임 적용
 
         if (!enemyAnimator.GetCurrentAnimatorStateInfo(0).IsName("Attack")) {

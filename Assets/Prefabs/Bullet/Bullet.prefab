@@ -126,3 +126,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletSpd: 30
+  bulletRange: 0
+  bulletDamage: 0

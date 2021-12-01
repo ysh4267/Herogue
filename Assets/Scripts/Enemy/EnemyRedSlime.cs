@@ -15,11 +15,12 @@ public class EnemyRedSlime : EnemyMeleeFSM {
     new void Start() {
         base.Start();
 
-        //몬스터의 체력과 공격력을 초기화
-        enemyMaxHP = 5f;
-        enemyCurrentHP = enemyMaxHP;
-        enemyAttackDamage = 1;
-        navMeshAgent.speed = 3.5f;
+        // //몬스터의 체력과 공격력을 초기화
+        // enemyMaxHP = 5f;
+        // enemyCurrentHP = enemyMaxHP;
+        // enemyAttackDamage = 1;
+        navMeshAgent.speed = enemyMoveSpeed;
+        navMeshAgent.stoppingDistance = enemyAttackRange;
     }
 
 
