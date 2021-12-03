@@ -13,14 +13,14 @@ public class PlayerBase : MonoBehaviour {
     public bool isInvincibility = false;
 
     public GameObject PlayerModel;
+    public PlayerHPIconController playerHPIconController;
 
     WaitForSeconds Delay100 = new WaitForSeconds(0.1f);
     WaitForSeconds Delay500 = new WaitForSeconds(0.5f);
 
     // Start is called before the first frame update
     void Start() {
-        attackSpd = 1.5f;
-        Damaged(1);
+        playerHPIconController.HpImageUpdate(playerMaxHP, playerCurrentHP);
     }
 
     // Update is called once per frame
@@ -32,6 +32,12 @@ public class PlayerBase : MonoBehaviour {
         if (!isInvincibility) {
             StartCoroutine(DamagedInvince());
         }
+        playerCurrentHP -= monsterDamage;
+        if (playerCurrentHP <= 0) {
+            playerCurrentHP = 0;
+            //gameOver
+        }
+        playerHPIconController.HpImageUpdate(playerMaxHP, playerCurrentHP);
     }
 
     IEnumerator DamagedTimer () {

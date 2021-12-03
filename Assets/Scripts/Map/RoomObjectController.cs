@@ -16,6 +16,7 @@ public class RoomObjectController : MonoBehaviour {
     [SerializeField] GameObject NorthWallObject = null;
     [SerializeField] GameObject SouthWallObject = null;
 
+    List<GameObject> doorList = new List<GameObject>();
 
     // Start is called before the first frame update
     void Start() {
@@ -37,21 +38,39 @@ public class RoomObjectController : MonoBehaviour {
             EastBridgeObject.SetActive(true);
             EastDoorObject.SetActive(false);
             EastWallObject.SetActive(false);
+            doorList.Add(EastDoorObject);
         }
         if (leftRoom) {
             WestBridgeObject.SetActive(true);
             WestDoorObject.SetActive(false);
             WestWallObject.SetActive(false);
+            doorList.Add(WestDoorObject);
         }
         if (upRoom) {
             NorthBridgeObject.SetActive(true);
             NorthDoorObject.SetActive(false);
             NorthWallObject.SetActive(false);
+            doorList.Add(NorthDoorObject);
         }
         if (downRoom) {
             SouthBridgeObject.SetActive(true);
             SouthDoorObject.SetActive(false);
             SouthWallObject.SetActive(false);
+            doorList.Add(SouthDoorObject);
+        }
+    }
+
+    public void CloseDoor() {
+        for (int i = 0; i < doorList.Count; i++)
+        {
+            doorList[i].SetActive(true);
+        }
+    }
+
+    public void OpenDoor() {
+        for (int i = 0; i < doorList.Count; i++)
+        {
+            doorList[i].SetActive(false);
         }
     }
 }

@@ -961,7 +961,7 @@ GameObject:
   - component: {fileID: 5610594355194542780}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -992,7 +992,7 @@ GameObject:
   - component: {fileID: 5610594355197009864}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1023,7 +1023,7 @@ GameObject:
   - component: {fileID: 5610594355200079643}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1056,7 +1056,7 @@ GameObject:
   - component: {fileID: 5610594355200846035}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1137,7 +1137,7 @@ GameObject:
   - component: {fileID: 5610594355203729770}
   m_Layer: 6
   m_Name: ForestGroundDirt (13)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1216,7 +1216,7 @@ GameObject:
   - component: {fileID: 5610594355208235559}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1249,7 +1249,7 @@ GameObject:
   - component: {fileID: 5610594355224320197}
   m_Layer: 6
   m_Name: ForestGroundDirt (27)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1330,7 +1330,7 @@ GameObject:
   - component: {fileID: 5610594355235665004}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1409,7 +1409,7 @@ GameObject:
   - component: {fileID: 5610594355240784515}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1440,7 +1440,7 @@ GameObject:
   - component: {fileID: 5610594355248476337}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1470,7 +1470,7 @@ GameObject:
   - component: {fileID: 5610594355249267406}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1503,7 +1503,7 @@ GameObject:
   - component: {fileID: 5610594355254484670}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1584,7 +1584,7 @@ GameObject:
   - component: {fileID: 5610594355254851980}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1665,7 +1665,7 @@ GameObject:
   - component: {fileID: 5610594355258222072}
   m_Layer: 6
   m_Name: ForestCastleDoorL_Blue
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1744,7 +1744,7 @@ GameObject:
   - component: {fileID: 5610594355259248334}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1776,7 +1776,7 @@ GameObject:
   - component: {fileID: 5610594355261812927}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1855,7 +1855,7 @@ GameObject:
   - component: {fileID: 5610594355266145092}
   m_Layer: 6
   m_Name: Line (13)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1909,7 +1909,7 @@ GameObject:
   - component: {fileID: 5610594355268913407}
   m_Layer: 6
   m_Name: NorthDoor
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2004,7 +2004,7 @@ GameObject:
   - component: {fileID: 5610594355269569274}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2085,7 +2085,7 @@ GameObject:
   - component: {fileID: 5610594355269913112}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2166,7 +2166,7 @@ GameObject:
   - component: {fileID: 5610594355276451814}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2247,7 +2247,7 @@ GameObject:
   - component: {fileID: 5610594355276638544}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2326,7 +2326,7 @@ GameObject:
   - component: {fileID: 5610594355278372856}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2359,7 +2359,7 @@ GameObject:
   - component: {fileID: 5610594355278916728}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2438,7 +2438,7 @@ GameObject:
   - component: {fileID: 5610594355280859432}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2468,7 +2468,7 @@ GameObject:
   - component: {fileID: 5610594355283221138}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2499,7 +2499,7 @@ GameObject:
   - component: {fileID: 5610594355283607628}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2532,7 +2532,7 @@ GameObject:
   - component: {fileID: 5610594355285821331}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2613,7 +2613,7 @@ GameObject:
   - component: {fileID: 5610594355288147895}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2694,7 +2694,7 @@ GameObject:
   - component: {fileID: 5610594355290309249}
   m_Layer: 6
   m_Name: ForestGroundDirt (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2775,7 +2775,7 @@ GameObject:
   - component: {fileID: 5610594355291127286}
   m_Layer: 6
   m_Name: ForestGroundDirt (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2856,7 +2856,7 @@ GameObject:
   - component: {fileID: 5610594355295141999}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2935,7 +2935,7 @@ GameObject:
   - component: {fileID: 5610594355296070825}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2967,7 +2967,7 @@ GameObject:
   - component: {fileID: 5610594355302680100}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3048,7 +3048,7 @@ GameObject:
   - component: {fileID: 5610594355303757341}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3129,7 +3129,7 @@ GameObject:
   - component: {fileID: 5610594355304684745}
   m_Layer: 6
   m_Name: ForestGroundDirt (27)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3208,7 +3208,7 @@ GameObject:
   - component: {fileID: 5610594355306709191}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3241,7 +3241,7 @@ GameObject:
   - component: {fileID: 5610594355312913494}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3322,7 +3322,7 @@ GameObject:
   - component: {fileID: 5610594355313090638}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3403,7 +3403,7 @@ GameObject:
   - component: {fileID: 5610594355314963218}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3484,7 +3484,7 @@ GameObject:
   - component: {fileID: 5610594355315462759}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3565,7 +3565,7 @@ GameObject:
   - component: {fileID: 5610594355316008833}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3646,7 +3646,7 @@ GameObject:
   - component: {fileID: 5610594355316126647}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3726,7 +3726,7 @@ GameObject:
   - component: {fileID: 5610594355326588427}
   m_Layer: 6
   m_Name: ForestFlag_Red (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3777,7 +3777,7 @@ GameObject:
   - component: {fileID: 5610594355326628275}
   m_Layer: 6
   m_Name: Line (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3831,7 +3831,7 @@ GameObject:
   - component: {fileID: 5610594355327455138}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3912,7 +3912,7 @@ GameObject:
   - component: {fileID: 5610594355331537063}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3993,7 +3993,7 @@ GameObject:
   - component: {fileID: 5610594355332918164}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4073,7 +4073,7 @@ GameObject:
   - component: {fileID: 5610594355333588119}
   m_Layer: 6
   m_Name: ForestFlag_Red (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4126,7 +4126,7 @@ GameObject:
   - component: {fileID: 5610594355333798327}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4207,7 +4207,7 @@ GameObject:
   - component: {fileID: 5610594355337075918}
   m_Layer: 6
   m_Name: ForestGroundDirt (27)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4288,7 +4288,7 @@ GameObject:
   - component: {fileID: 5610594355342597914}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4369,7 +4369,7 @@ GameObject:
   - component: {fileID: 5610594355342743312}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4450,7 +4450,7 @@ GameObject:
   - component: {fileID: 5610594355346490896}
   m_Layer: 6
   m_Name: ForestGroundDirt (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4531,7 +4531,7 @@ GameObject:
   - component: {fileID: 5610594355347382847}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4612,7 +4612,7 @@ GameObject:
   - component: {fileID: 5610594355351325043}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4691,7 +4691,7 @@ GameObject:
   - component: {fileID: 5610594355354472416}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4722,7 +4722,7 @@ GameObject:
   - component: {fileID: 5610594355359823817}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4753,7 +4753,7 @@ GameObject:
   - component: {fileID: 5610594355359836510}
   m_Layer: 6
   m_Name: Line (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4805,7 +4805,7 @@ GameObject:
   - component: {fileID: 5610594355360462799}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4838,7 +4838,7 @@ GameObject:
   - component: {fileID: 5610594355365519642}
   m_Layer: 6
   m_Name: ForestGroundDirt (14)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4919,7 +4919,7 @@ GameObject:
   - component: {fileID: 5610594355369079093}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5000,7 +5000,7 @@ GameObject:
   - component: {fileID: 5610594355369806231}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5081,7 +5081,7 @@ GameObject:
   - component: {fileID: 5610594355372263548}
   m_Layer: 6
   m_Name: ForestCastleDoorR_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5162,7 +5162,7 @@ GameObject:
   - component: {fileID: 5610594355375037723}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5241,7 +5241,7 @@ GameObject:
   - component: {fileID: 5610594355384572847}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5274,7 +5274,7 @@ GameObject:
   - component: {fileID: 5610594355385228866}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5354,7 +5354,7 @@ GameObject:
   - component: {fileID: 5610594355388570519}
   m_Layer: 6
   m_Name: ForestBanner_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5407,7 +5407,7 @@ GameObject:
   - component: {fileID: 5610594355390998352}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5488,7 +5488,7 @@ GameObject:
   - component: {fileID: 5610594355397047561}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5568,7 +5568,7 @@ GameObject:
   - component: {fileID: 5610594355403308317}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5657,7 +5657,7 @@ GameObject:
   - component: {fileID: 5610594355410288367}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5736,7 +5736,7 @@ GameObject:
   - component: {fileID: 5610594355410474932}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5769,7 +5769,7 @@ GameObject:
   - component: {fileID: 5610594355414087161}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5848,7 +5848,7 @@ GameObject:
   - component: {fileID: 5610594355417058530}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5881,7 +5881,7 @@ GameObject:
   - component: {fileID: 5610594355424643042}
   m_Layer: 6
   m_Name: ForestGroundDirt
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5960,7 +5960,7 @@ GameObject:
   - component: {fileID: 5610594355426413919}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5993,7 +5993,7 @@ GameObject:
   - component: {fileID: 5610594355430412750}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6074,7 +6074,7 @@ GameObject:
   - component: {fileID: 5610594355431188508}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6153,7 +6153,7 @@ GameObject:
   - component: {fileID: 5610594355432584424}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6185,7 +6185,7 @@ GameObject:
   - component: {fileID: 5610594355434592247}
   m_Layer: 6
   m_Name: ForestFlag_Red (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6238,7 +6238,7 @@ GameObject:
   - component: {fileID: 5610594355445057111}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6319,7 +6319,7 @@ GameObject:
   - component: {fileID: 5610594355447663176}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6400,7 +6400,7 @@ GameObject:
   - component: {fileID: 5610594355447675191}
   m_Layer: 6
   m_Name: ForestGroundDirt (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6481,7 +6481,7 @@ GameObject:
   - component: {fileID: 5610594355452989023}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6562,7 +6562,7 @@ GameObject:
   - component: {fileID: 5610594355454247030}
   m_Layer: 6
   m_Name: ForestGroundDirt (26)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6643,7 +6643,7 @@ GameObject:
   - component: {fileID: 5610594355454365848}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6724,7 +6724,7 @@ GameObject:
   - component: {fileID: 5610594355454469584}
   m_Layer: 6
   m_Name: ForestGroundDirt (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6805,7 +6805,7 @@ GameObject:
   - component: {fileID: 5610594355455805279}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6884,7 +6884,7 @@ GameObject:
   - component: {fileID: 5610594355456033318}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6916,7 +6916,7 @@ GameObject:
   - component: {fileID: 5610594355458928245}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6997,7 +6997,7 @@ GameObject:
   - component: {fileID: 5610594355462212650}
   m_Layer: 6
   m_Name: ForestGroundDirt (28)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7078,7 +7078,7 @@ GameObject:
   - component: {fileID: 5610594355463389100}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7159,7 +7159,7 @@ GameObject:
   - component: {fileID: 5610594355465512944}
   m_Layer: 6
   m_Name: ForestCastleDoorR_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7238,7 +7238,7 @@ GameObject:
   - component: {fileID: 5610594355470713274}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7269,7 +7269,7 @@ GameObject:
   - component: {fileID: 5610594355477056757}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7302,7 +7302,7 @@ GameObject:
   - component: {fileID: 5610594355478925824}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7383,7 +7383,7 @@ GameObject:
   - component: {fileID: 5610594355481164442}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7462,7 +7462,7 @@ GameObject:
   - component: {fileID: 5610594355487128083}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7495,7 +7495,7 @@ GameObject:
   - component: {fileID: 5610594355488490311}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7575,7 +7575,7 @@ GameObject:
   - component: {fileID: 5610594355488686010}
   m_Layer: 6
   m_Name: ForestFlag_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7626,7 +7626,7 @@ GameObject:
   - component: {fileID: 5610594355490030632}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7656,7 +7656,7 @@ GameObject:
   - component: {fileID: 5610594355495998756}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7689,7 +7689,7 @@ GameObject:
   - component: {fileID: 5610594355496849437}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7770,7 +7770,7 @@ GameObject:
   - component: {fileID: 5610594355510019345}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7851,7 +7851,7 @@ GameObject:
   - component: {fileID: 5610594355512016025}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7932,7 +7932,7 @@ GameObject:
   - component: {fileID: 5610594355513401974}
   m_Layer: 6
   m_Name: ForestGroundDirt (25)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8013,7 +8013,7 @@ GameObject:
   - component: {fileID: 5610594355515172078}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8094,7 +8094,7 @@ GameObject:
   - component: {fileID: 5610594355520323690}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8173,7 +8173,7 @@ GameObject:
   - component: {fileID: 5610594355526073748}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8205,7 +8205,7 @@ GameObject:
   - component: {fileID: 5610594355526403677}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8291,7 +8291,7 @@ GameObject:
   - component: {fileID: 5610594355526813039}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8322,7 +8322,7 @@ GameObject:
   - component: {fileID: 5610594355527626718}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8355,7 +8355,7 @@ GameObject:
   - component: {fileID: 5610594355531399716}
   m_Layer: 6
   m_Name: ForestGroundDirt (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8434,7 +8434,7 @@ GameObject:
   - component: {fileID: 5610594355532094071}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8465,7 +8465,7 @@ GameObject:
   - component: {fileID: 5610594355532296712}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8496,7 +8496,7 @@ GameObject:
   - component: {fileID: 5610594355536794416}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8527,7 +8527,7 @@ GameObject:
   - component: {fileID: 5610594355537478790}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8559,7 +8559,7 @@ GameObject:
   - component: {fileID: 5610594355539201784}
   m_Layer: 6
   m_Name: ForestBanner (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8611,7 +8611,7 @@ GameObject:
   - component: {fileID: 5610594355543864193}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8690,7 +8690,7 @@ GameObject:
   - component: {fileID: 5610594355546584195}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8721,7 +8721,7 @@ GameObject:
   - component: {fileID: 5610594355546610816}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8752,7 +8752,7 @@ GameObject:
   - component: {fileID: 5610594355549409083}
   m_Layer: 6
   m_Name: ForestBanner (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8804,7 +8804,7 @@ GameObject:
   - component: {fileID: 5610594355554455424}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8885,7 +8885,7 @@ GameObject:
   - component: {fileID: 5610594355558261395}
   m_Layer: 6
   m_Name: ForestGroundDirt (12)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8966,7 +8966,7 @@ GameObject:
   - component: {fileID: 5610594355559229803}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9047,7 +9047,7 @@ GameObject:
   - component: {fileID: 5610594355559275632}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9128,7 +9128,7 @@ GameObject:
   - component: {fileID: 5610594355566401087}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9209,7 +9209,7 @@ GameObject:
   - component: {fileID: 5610594355571415381}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9288,7 +9288,7 @@ GameObject:
   - component: {fileID: 5610594355575922901}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9318,7 +9318,7 @@ GameObject:
   - component: {fileID: 5610594355578062089}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9351,7 +9351,7 @@ GameObject:
   - component: {fileID: 5610594355580374639}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9432,7 +9432,7 @@ GameObject:
   - component: {fileID: 5610594355581238256}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9513,7 +9513,7 @@ GameObject:
   - component: {fileID: 5610594355591133377}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9597,7 +9597,7 @@ GameObject:
   - component: {fileID: 5610594355591623500}
   m_Layer: 6
   m_Name: SouthBridge
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9715,7 +9715,7 @@ GameObject:
   - component: {fileID: 5610594355594224573}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9748,7 +9748,7 @@ GameObject:
   - component: {fileID: 5610594355596866742}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9829,7 +9829,7 @@ GameObject:
   - component: {fileID: 5610594355597823231}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9910,7 +9910,7 @@ GameObject:
   - component: {fileID: 5610594355598608377}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9991,7 +9991,7 @@ GameObject:
   - component: {fileID: 5610594355599775126}
   m_Layer: 6
   m_Name: ForestGroundDirt (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10070,7 +10070,7 @@ GameObject:
   - component: {fileID: 5610594355604538878}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10101,7 +10101,7 @@ GameObject:
   - component: {fileID: 5610594355606209296}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10131,7 +10131,7 @@ GameObject:
   - component: {fileID: 5610594355607549641}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10164,7 +10164,7 @@ GameObject:
   - component: {fileID: 5610594355609132683}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10245,7 +10245,7 @@ GameObject:
   - component: {fileID: 5610594355609284083}
   m_Layer: 6
   m_Name: ForestGroundDirt (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10326,7 +10326,7 @@ GameObject:
   - component: {fileID: 5610594355610755684}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10407,7 +10407,7 @@ GameObject:
   - component: {fileID: 5610594355611828705}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10486,7 +10486,7 @@ GameObject:
   - component: {fileID: 5610594355615976573}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10518,7 +10518,7 @@ GameObject:
   - component: {fileID: 5610594355617411141}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10599,7 +10599,7 @@ GameObject:
   - component: {fileID: 5610594355623765521}
   m_Layer: 6
   m_Name: ForestGroundDirt (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10678,7 +10678,7 @@ GameObject:
   - component: {fileID: 5610594355624200727}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10711,7 +10711,7 @@ GameObject:
   - component: {fileID: 5610594355626966982}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10792,7 +10792,7 @@ GameObject:
   - component: {fileID: 5610594355627097704}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10873,7 +10873,7 @@ GameObject:
   - component: {fileID: 5610594355628506176}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10952,7 +10952,7 @@ GameObject:
   - component: {fileID: 5610594355630252165}
   m_Layer: 6
   m_Name: SouthDoor
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10984,7 +10984,7 @@ GameObject:
   - component: {fileID: 5610594355634850627}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11017,7 +11017,7 @@ GameObject:
   - component: {fileID: 5610594355636166813}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11098,7 +11098,7 @@ GameObject:
   - component: {fileID: 5610594355639602222}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11179,7 +11179,7 @@ GameObject:
   - component: {fileID: 5610594355639665656}
   m_Layer: 6
   m_Name: ForestGroundDirt (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11260,7 +11260,7 @@ GameObject:
   - component: {fileID: 5610594355640495398}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11341,7 +11341,7 @@ GameObject:
   - component: {fileID: 5610594355640829400}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11422,7 +11422,7 @@ GameObject:
   - component: {fileID: 5610594355646346244}
   m_Layer: 6
   m_Name: ForestGroundDirt (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11501,7 +11501,7 @@ GameObject:
   - component: {fileID: 5610594355650202527}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11534,7 +11534,7 @@ GameObject:
   - component: {fileID: 5610594355651896422}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11614,7 +11614,7 @@ GameObject:
   - component: {fileID: 5610594355652624099}
   m_Layer: 6
   m_Name: ForestFlag_Red (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11666,7 +11666,7 @@ GameObject:
   - component: {fileID: 5610594355653526813}
   m_Layer: 6
   m_Name: WestDoorWall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11713,7 +11713,7 @@ GameObject:
   - component: {fileID: 5610594355654290889}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11743,7 +11743,7 @@ GameObject:
   - component: {fileID: 5610594355655300506}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11775,7 +11775,7 @@ GameObject:
   - component: {fileID: 5610594355655338824}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11854,7 +11854,7 @@ GameObject:
   - component: {fileID: 5610594355655405226}
   m_Layer: 6
   m_Name: Line (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11908,7 +11908,7 @@ GameObject:
   - component: {fileID: 5610594355659138842}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11988,7 +11988,7 @@ GameObject:
   - component: {fileID: 5610594355659736807}
   m_Layer: 6
   m_Name: ForestBanner_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12041,7 +12041,7 @@ GameObject:
   - component: {fileID: 5610594355661776004}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12122,7 +12122,7 @@ GameObject:
   - component: {fileID: 5610594355662433072}
   m_Layer: 6
   m_Name: ForestGroundDirt (26)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12201,7 +12201,7 @@ GameObject:
   - component: {fileID: 5610594355665985880}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12232,7 +12232,7 @@ GameObject:
   - component: {fileID: 5610594355668089349}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12265,7 +12265,7 @@ GameObject:
   - component: {fileID: 5610594355668532913}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12346,7 +12346,7 @@ GameObject:
   - component: {fileID: 5610594355669639419}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12427,7 +12427,7 @@ GameObject:
   - component: {fileID: 5610594355670924258}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12506,7 +12506,7 @@ GameObject:
   - component: {fileID: 5610594355672386305}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12537,7 +12537,7 @@ GameObject:
   - component: {fileID: 5610594355674812863}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12567,7 +12567,7 @@ GameObject:
   - component: {fileID: 5610594355676849036}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12598,7 +12598,7 @@ GameObject:
   - component: {fileID: 5610594355677600566}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12631,7 +12631,7 @@ GameObject:
   - component: {fileID: 5610594355680438505}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12710,7 +12710,7 @@ GameObject:
   - component: {fileID: 5610594355691724701}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12742,7 +12742,7 @@ GameObject:
   - component: {fileID: 5610594355692636335}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12830,7 +12830,7 @@ GameObject:
   - component: {fileID: 5610594355693712541}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12911,7 +12911,7 @@ GameObject:
   - component: {fileID: 5610594355706275573}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12992,7 +12992,7 @@ GameObject:
   - component: {fileID: 5610594355706716695}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13073,7 +13073,7 @@ GameObject:
   - component: {fileID: 5610594355707469349}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13153,7 +13153,7 @@ GameObject:
   - component: {fileID: 5610594355710347140}
   m_Layer: 6
   m_Name: ForestFlag_Red (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13206,7 +13206,7 @@ GameObject:
   - component: {fileID: 5610594355714151552}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13285,7 +13285,7 @@ GameObject:
   - component: {fileID: 5610594355716856240}
   m_Layer: 6
   m_Name: Line (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13337,7 +13337,7 @@ GameObject:
   - component: {fileID: 5610594355717759837}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13370,7 +13370,7 @@ GameObject:
   - component: {fileID: 5610594355719228956}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13449,7 +13449,7 @@ GameObject:
   - component: {fileID: 5610594355720206068}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13480,7 +13480,7 @@ GameObject:
   - component: {fileID: 5610594355720679467}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13512,7 +13512,7 @@ GameObject:
   - component: {fileID: 5610594355723134518}
   m_Layer: 6
   m_Name: ForestFlag_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13565,7 +13565,7 @@ GameObject:
   - component: {fileID: 5610594355728059017}
   m_Layer: 6
   m_Name: ForestGroundDirt (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13644,7 +13644,7 @@ GameObject:
   - component: {fileID: 5610594355729010700}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13675,7 +13675,7 @@ GameObject:
   - component: {fileID: 5610594355729902294}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13707,7 +13707,7 @@ GameObject:
   - component: {fileID: 5610594355732977168}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13786,7 +13786,7 @@ GameObject:
   - component: {fileID: 5610594355733072347}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13817,7 +13817,7 @@ GameObject:
   - component: {fileID: 5610594355735972146}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13850,7 +13850,7 @@ GameObject:
   - component: {fileID: 5610594355742200679}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13929,7 +13929,7 @@ GameObject:
   - component: {fileID: 5610594355743641991}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13962,7 +13962,7 @@ GameObject:
   - component: {fileID: 5610594355747151593}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14042,7 +14042,7 @@ GameObject:
   - component: {fileID: 5610594355748372761}
   m_Layer: 6
   m_Name: ForestFlag_Red (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14095,7 +14095,7 @@ GameObject:
   - component: {fileID: 5610594355749728988}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14176,7 +14176,7 @@ GameObject:
   - component: {fileID: 5610594355753148646}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14257,7 +14257,7 @@ GameObject:
   - component: {fileID: 5610594355753643606}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14336,7 +14336,7 @@ GameObject:
   - component: {fileID: 5610594355754987940}
   m_Layer: 6
   m_Name: Line (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14388,7 +14388,7 @@ GameObject:
   - component: {fileID: 5610594355760338837}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14514,7 +14514,7 @@ GameObject:
   - component: {fileID: 5610594355766643246}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14547,7 +14547,7 @@ GameObject:
   - component: {fileID: 5610594355768516442}
   m_Layer: 6
   m_Name: ForestGroundDirt (15)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14626,7 +14626,7 @@ GameObject:
   - component: {fileID: 5610594355770985933}
   m_Layer: 6
   m_Name: Line (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14680,7 +14680,7 @@ GameObject:
   - component: {fileID: 5610594355771591497}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14761,7 +14761,7 @@ GameObject:
   - component: {fileID: 5610594355780849570}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14840,7 +14840,7 @@ GameObject:
   - component: {fileID: 5610594355787678864}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14871,7 +14871,7 @@ GameObject:
   - component: {fileID: 5610594355788435659}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14904,7 +14904,7 @@ GameObject:
   - component: {fileID: 5610594355788712890}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14983,7 +14983,7 @@ GameObject:
   - component: {fileID: 5610594355792092214}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15016,7 +15016,7 @@ GameObject:
   - component: {fileID: 5610594355794161586}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15097,7 +15097,7 @@ GameObject:
   - component: {fileID: 5610594355796204239}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15178,7 +15178,7 @@ GameObject:
   - component: {fileID: 5610594355797792894}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15259,7 +15259,7 @@ GameObject:
   - component: {fileID: 5610594355798230998}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15338,7 +15338,7 @@ GameObject:
   - component: {fileID: 5610594355803415815}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15371,7 +15371,7 @@ GameObject:
   - component: {fileID: 5610594355804011977}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15450,7 +15450,7 @@ GameObject:
   - component: {fileID: 5610594355807321530}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15480,7 +15480,7 @@ GameObject:
   - component: {fileID: 5610594355807642032}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15512,7 +15512,7 @@ GameObject:
   - component: {fileID: 5610594355808945208}
   m_Layer: 6
   m_Name: ForestBanner (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15562,7 +15562,7 @@ GameObject:
   - component: {fileID: 5610594355809243864}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15593,7 +15593,7 @@ GameObject:
   - component: {fileID: 5610594355812098388}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15624,7 +15624,7 @@ GameObject:
   - component: {fileID: 5610594355812755980}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15654,7 +15654,7 @@ GameObject:
   - component: {fileID: 5610594355813116944}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15685,7 +15685,7 @@ GameObject:
   - component: {fileID: 5610594355817279989}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15718,7 +15718,7 @@ GameObject:
   - component: {fileID: 5610594355817449928}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15799,7 +15799,7 @@ GameObject:
   - component: {fileID: 5610594355819293694}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15878,7 +15878,7 @@ GameObject:
   - component: {fileID: 5610594355819946366}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15909,7 +15909,7 @@ GameObject:
   - component: {fileID: 5610594355820205526}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15942,7 +15942,7 @@ GameObject:
   - component: {fileID: 5610594355820790016}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16023,7 +16023,7 @@ GameObject:
   - component: {fileID: 5610594355824847591}
   m_Layer: 6
   m_Name: ForestGroundDirt (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16104,7 +16104,7 @@ GameObject:
   - component: {fileID: 5610594355826231970}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16185,7 +16185,7 @@ GameObject:
   - component: {fileID: 5610594355827912388}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16266,7 +16266,7 @@ GameObject:
   - component: {fileID: 5610594355828511095}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16347,7 +16347,7 @@ GameObject:
   - component: {fileID: 5610594355832332292}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16428,7 +16428,7 @@ GameObject:
   - component: {fileID: 5610594355833023569}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16509,7 +16509,7 @@ GameObject:
   - component: {fileID: 5610594355834555108}
   m_Layer: 6
   m_Name: ForestGroundDirt (27)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16590,7 +16590,7 @@ GameObject:
   - component: {fileID: 5610594355835755861}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16671,7 +16671,7 @@ GameObject:
   - component: {fileID: 5610594355838740589}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16750,7 +16750,7 @@ GameObject:
   - component: {fileID: 5610594355846605786}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16781,7 +16781,7 @@ GameObject:
   - component: {fileID: 5610594355852559794}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16813,7 +16813,7 @@ GameObject:
   - component: {fileID: 5610594355854992871}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16900,7 +16900,7 @@ GameObject:
   - component: {fileID: 5610594355857602515}
   m_Layer: 6
   m_Name: MapObject
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16943,7 +16943,7 @@ GameObject:
   - component: {fileID: 5610594355861671403}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16976,7 +16976,7 @@ GameObject:
   - component: {fileID: 5610594355863588484}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17057,7 +17057,7 @@ GameObject:
   - component: {fileID: 5610594355863823704}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17138,7 +17138,7 @@ GameObject:
   - component: {fileID: 5610594355865083968}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17217,7 +17217,7 @@ GameObject:
   - component: {fileID: 5610594355867365241}
   m_Layer: 6
   m_Name: DirtLine (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17269,7 +17269,7 @@ GameObject:
   - component: {fileID: 5610594355869000093}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17350,7 +17350,7 @@ GameObject:
   - component: {fileID: 5610594355871771240}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17431,7 +17431,7 @@ GameObject:
   - component: {fileID: 5610594355873387569}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17510,7 +17510,7 @@ GameObject:
   - component: {fileID: 5610594355874884216}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17542,7 +17542,7 @@ GameObject:
   - component: {fileID: 5610594355878139272}
   m_Layer: 6
   m_Name: ForestFlag_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17595,7 +17595,7 @@ GameObject:
   - component: {fileID: 5610594355880258056}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17676,7 +17676,7 @@ GameObject:
   - component: {fileID: 5610594355881742905}
   m_Layer: 6
   m_Name: ForestGroundDirt (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17757,7 +17757,7 @@ GameObject:
   - component: {fileID: 5610594355883832966}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17838,7 +17838,7 @@ GameObject:
   - component: {fileID: 5610594355890740833}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17919,7 +17919,7 @@ GameObject:
   - component: {fileID: 5610594355892457895}
   m_Layer: 6
   m_Name: ForestGroundDirt (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18000,7 +18000,7 @@ GameObject:
   - component: {fileID: 5610594355892659240}
   m_Layer: 6
   m_Name: ForestGroundDirt (14)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18080,7 +18080,7 @@ GameObject:
   - component: {fileID: 5610594355894669684}
   m_Layer: 6
   m_Name: ForestFlag_Red (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18132,7 +18132,7 @@ GameObject:
   - component: {fileID: 5610594355900242743}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18221,7 +18221,7 @@ GameObject:
   - component: {fileID: 5610594355900552604}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18302,7 +18302,7 @@ GameObject:
   - component: {fileID: 5610594355901470377}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18383,7 +18383,7 @@ GameObject:
   - component: {fileID: 5610594355912434487}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18464,7 +18464,7 @@ GameObject:
   - component: {fileID: 5610594355915401241}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18545,7 +18545,7 @@ GameObject:
   - component: {fileID: 5610594355916377081}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18626,7 +18626,7 @@ GameObject:
   - component: {fileID: 5610594355918325878}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18707,7 +18707,7 @@ GameObject:
   - component: {fileID: 5610594355918503651}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18787,7 +18787,7 @@ GameObject:
   - component: {fileID: 5610594355919830901}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18876,7 +18876,7 @@ GameObject:
   - component: {fileID: 5610594355923675986}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18957,7 +18957,7 @@ GameObject:
   - component: {fileID: 5610594355925971278}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19036,7 +19036,7 @@ GameObject:
   - component: {fileID: 5610594355926992648}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19067,7 +19067,7 @@ GameObject:
   - component: {fileID: 5610594355927018252}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19100,7 +19100,7 @@ GameObject:
   - component: {fileID: 5610594355929889925}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19179,7 +19179,7 @@ GameObject:
   - component: {fileID: 5610594355930873058}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19210,7 +19210,7 @@ GameObject:
   - component: {fileID: 5610594355939343606}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19243,7 +19243,7 @@ GameObject:
   - component: {fileID: 5610594355940025120}
   m_Layer: 6
   m_Name: ForestCastleDoorL_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19322,7 +19322,7 @@ GameObject:
   - component: {fileID: 5610594355940499664}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19355,7 +19355,7 @@ GameObject:
   - component: {fileID: 5610594355940917887}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19436,7 +19436,7 @@ GameObject:
   - component: {fileID: 5610594355941895924}
   m_Layer: 6
   m_Name: ForestGroundDirt (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19515,7 +19515,7 @@ GameObject:
   - component: {fileID: 5610594355944789364}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19547,7 +19547,7 @@ GameObject:
   - component: {fileID: 5610594355945517461}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19628,7 +19628,7 @@ GameObject:
   - component: {fileID: 5610594355947084729}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19708,7 +19708,7 @@ GameObject:
   - component: {fileID: 5610594355948510544}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19796,7 +19796,7 @@ GameObject:
   - component: {fileID: 5610594355948623112}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19875,7 +19875,7 @@ GameObject:
   - component: {fileID: 5610594355950111662}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19908,7 +19908,7 @@ GameObject:
   - component: {fileID: 5610594355950956203}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19989,7 +19989,7 @@ GameObject:
   - component: {fileID: 5610594355960387087}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20070,7 +20070,7 @@ GameObject:
   - component: {fileID: 5610594355966851141}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20149,7 +20149,7 @@ GameObject:
   - component: {fileID: 5610594355967901816}
   m_Layer: 6
   m_Name: Line (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20201,7 +20201,7 @@ GameObject:
   - component: {fileID: 5610594355971704675}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20234,7 +20234,7 @@ GameObject:
   - component: {fileID: 5610594355972011385}
   m_Layer: 6
   m_Name: ForestGroundDirt (13)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20315,7 +20315,7 @@ GameObject:
   - component: {fileID: 5610594355974908500}
   m_Layer: 6
   m_Name: ForestGroundDirt (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20394,7 +20394,7 @@ GameObject:
   - component: {fileID: 5610594355976115566}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20425,7 +20425,7 @@ GameObject:
   - component: {fileID: 5610594355980435046}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20456,7 +20456,7 @@ GameObject:
   - component: {fileID: 5610594355982706121}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20487,7 +20487,7 @@ GameObject:
   - component: {fileID: 5610594355985425593}
   m_Layer: 6
   m_Name: Board
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20548,7 +20548,7 @@ GameObject:
   - component: {fileID: 5610594355987227445}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20629,7 +20629,7 @@ GameObject:
   - component: {fileID: 5610594355988821994}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20710,7 +20710,7 @@ GameObject:
   - component: {fileID: 5610594355994322312}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20791,7 +20791,7 @@ GameObject:
   - component: {fileID: 5610594355996991431}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20871,7 +20871,7 @@ GameObject:
   - component: {fileID: 5610594355997677307}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20960,7 +20960,7 @@ GameObject:
   - component: {fileID: 5610594356001763625}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21041,7 +21041,7 @@ GameObject:
   - component: {fileID: 5610594356004126642}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21121,7 +21121,7 @@ GameObject:
   - component: {fileID: 5610594356005834657}
   m_Layer: 6
   m_Name: SouthDoorWall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21170,7 +21170,7 @@ GameObject:
   - component: {fileID: 5610594356006028335}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21251,7 +21251,7 @@ GameObject:
   - component: {fileID: 5610594356006236852}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21330,7 +21330,7 @@ GameObject:
   - component: {fileID: 5610594356008709311}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21363,7 +21363,7 @@ GameObject:
   - component: {fileID: 5610594356009717685}
   m_Layer: 6
   m_Name: ForestGroundDirt (15)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21444,7 +21444,7 @@ GameObject:
   - component: {fileID: 5610594356010755852}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21525,7 +21525,7 @@ GameObject:
   - component: {fileID: 5610594356017349574}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21606,7 +21606,7 @@ GameObject:
   - component: {fileID: 5610594356025117239}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21687,7 +21687,7 @@ GameObject:
   - component: {fileID: 5610594356026881995}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21767,7 +21767,7 @@ GameObject:
   - component: {fileID: 5610594356029842465}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21855,7 +21855,7 @@ GameObject:
   - component: {fileID: 5610594356031930040}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21936,7 +21936,7 @@ GameObject:
   - component: {fileID: 5610594356037476188}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22017,7 +22017,7 @@ GameObject:
   - component: {fileID: 5610594356038260763}
   m_Layer: 6
   m_Name: ForestGroundDirt (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22098,7 +22098,7 @@ GameObject:
   - component: {fileID: 5610594356038351437}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22177,7 +22177,7 @@ GameObject:
   - component: {fileID: 5610594356038380778}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22209,7 +22209,7 @@ GameObject:
   - component: {fileID: 5610594356039620965}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22288,7 +22288,7 @@ GameObject:
   - component: {fileID: 5610594356043214375}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22321,7 +22321,7 @@ GameObject:
   - component: {fileID: 5610594356043668399}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22402,7 +22402,7 @@ GameObject:
   - component: {fileID: 5610594356044348781}
   m_Layer: 6
   m_Name: ForestGroundDirt (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22486,7 +22486,7 @@ GameObject:
   - component: {fileID: 5610594356048832295}
   m_Layer: 6
   m_Name: WestBridge
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22606,7 +22606,7 @@ GameObject:
   - component: {fileID: 5610594356053743968}
   m_Layer: 6
   m_Name: ForestGroundDirt (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22687,7 +22687,7 @@ GameObject:
   - component: {fileID: 5610594356054780625}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22768,7 +22768,7 @@ GameObject:
   - component: {fileID: 5610594356055150819}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22849,7 +22849,7 @@ GameObject:
   - component: {fileID: 5610594356055819389}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22930,7 +22930,7 @@ GameObject:
   - component: {fileID: 5610594356056660809}
   m_Layer: 6
   m_Name: ForestGroundDirt (26)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23011,7 +23011,7 @@ GameObject:
   - component: {fileID: 5610594356057693019}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23092,7 +23092,7 @@ GameObject:
   - component: {fileID: 5610594356059964063}
   m_Layer: 6
   m_Name: ForestGroundDirt
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23173,7 +23173,7 @@ GameObject:
   - component: {fileID: 5610594356062092641}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23254,7 +23254,7 @@ GameObject:
   - component: {fileID: 5610594356066551902}
   m_Layer: 6
   m_Name: ForestGroundDirt (25)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23335,7 +23335,7 @@ GameObject:
   - component: {fileID: 5610594356066703958}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23416,7 +23416,7 @@ GameObject:
   - component: {fileID: 5610594356080335041}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23495,7 +23495,7 @@ GameObject:
   - component: {fileID: 5610594356081267199}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23528,7 +23528,7 @@ GameObject:
   - component: {fileID: 5610594356082736983}
   m_Layer: 6
   m_Name: ForestCastleDoorL_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23609,7 +23609,7 @@ GameObject:
   - component: {fileID: 5610594356082854556}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23688,7 +23688,7 @@ GameObject:
   - component: {fileID: 5610594356083553030}
   m_Layer: 6
   m_Name: EastObjects
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23723,7 +23723,7 @@ GameObject:
   - component: {fileID: 5610594356092018852}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23804,7 +23804,7 @@ GameObject:
   - component: {fileID: 5610594356100165158}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23885,7 +23885,7 @@ GameObject:
   - component: {fileID: 5610594356109106429}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23966,7 +23966,7 @@ GameObject:
   - component: {fileID: 5610594356109864447}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24046,7 +24046,7 @@ GameObject:
   - component: {fileID: 5610594356111596170}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24134,7 +24134,7 @@ GameObject:
   - component: {fileID: 5610594356112430757}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24213,7 +24213,7 @@ GameObject:
   - component: {fileID: 5610594356113325701}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24245,7 +24245,7 @@ GameObject:
   - component: {fileID: 5610594356118177678}
   m_Layer: 6
   m_Name: ForestFlag_Red (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24296,7 +24296,7 @@ GameObject:
   - component: {fileID: 5610594356120375442}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24329,7 +24329,7 @@ GameObject:
   - component: {fileID: 5610594356126807722}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24410,7 +24410,7 @@ GameObject:
   - component: {fileID: 5610594356129386170}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24491,7 +24491,7 @@ GameObject:
   - component: {fileID: 5610594356133050168}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24570,7 +24570,7 @@ GameObject:
   - component: {fileID: 5610594356134378067}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24601,7 +24601,7 @@ GameObject:
   - component: {fileID: 5610594356136325992}
   m_Layer: 6
   m_Name: EastDoor
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24635,7 +24635,7 @@ GameObject:
   - component: {fileID: 5610594356138732414}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24716,7 +24716,7 @@ GameObject:
   - component: {fileID: 5610594356142463599}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24795,7 +24795,7 @@ GameObject:
   - component: {fileID: 5610594356143439168}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24826,7 +24826,7 @@ GameObject:
   - component: {fileID: 5610594356147965045}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24859,7 +24859,7 @@ GameObject:
   - component: {fileID: 5610594356151986888}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24940,7 +24940,7 @@ GameObject:
   - component: {fileID: 5610594356152622815}
   m_Layer: 6
   m_Name: ForestGroundDirt (12)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25021,7 +25021,7 @@ GameObject:
   - component: {fileID: 5610594356155133369}
   m_Layer: 6
   m_Name: ForestGroundDirt (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25102,7 +25102,7 @@ GameObject:
   - component: {fileID: 5610594356161272970}
   m_Layer: 6
   m_Name: ForestCastleDoorR_Blue
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25181,7 +25181,7 @@ GameObject:
   - component: {fileID: 5610594356165398240}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25214,7 +25214,7 @@ GameObject:
   - component: {fileID: 5610594356166623958}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25295,7 +25295,7 @@ GameObject:
   - component: {fileID: 5610594356168520916}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25374,7 +25374,7 @@ GameObject:
   - component: {fileID: 5610594356173597958}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25405,7 +25405,7 @@ GameObject:
   - component: {fileID: 5610594356177288741}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25438,7 +25438,7 @@ GameObject:
   - component: {fileID: 5610594356178283163}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25519,7 +25519,7 @@ GameObject:
   - component: {fileID: 5610594356179323814}
   m_Layer: 6
   m_Name: WestDoor
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25614,7 +25614,7 @@ GameObject:
   - component: {fileID: 5610594356185439993}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25695,7 +25695,7 @@ GameObject:
   - component: {fileID: 5610594356186222031}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25775,7 +25775,7 @@ GameObject:
   - component: {fileID: 5610594356188934851}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25862,7 +25862,7 @@ GameObject:
   - component: {fileID: 5610594356189929941}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25893,7 +25893,7 @@ GameObject:
   - component: {fileID: 5610594356191017785}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25925,7 +25925,7 @@ GameObject:
   - component: {fileID: 5610594356193429447}
   m_Layer: 6
   m_Name: NorthDoorWall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25972,7 +25972,7 @@ GameObject:
   - component: {fileID: 5610594356194064943}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26005,7 +26005,7 @@ GameObject:
   - component: {fileID: 5610594356202977896}
   m_Layer: 6
   m_Name: ForestCastleDoorL_Blue
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26086,7 +26086,7 @@ GameObject:
   - component: {fileID: 5610594356203362746}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26165,7 +26165,7 @@ GameObject:
   - component: {fileID: 5610594356207364867}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26198,7 +26198,7 @@ GameObject:
   - component: {fileID: 5610594356208426274}
   m_Layer: 6
   m_Name: ForestGroundDirt (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26277,7 +26277,7 @@ GameObject:
   - component: {fileID: 5610594356209838212}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26310,7 +26310,7 @@ GameObject:
   - component: {fileID: 5610594356215813415}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26391,7 +26391,7 @@ GameObject:
   - component: {fileID: 5610594356216046107}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26472,7 +26472,7 @@ GameObject:
   - component: {fileID: 5610594356217687682}
   m_Layer: 6
   m_Name: ForestGroundDirt (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26553,7 +26553,7 @@ GameObject:
   - component: {fileID: 5610594356218761046}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26634,7 +26634,7 @@ GameObject:
   - component: {fileID: 5610594356220839324}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26714,7 +26714,7 @@ GameObject:
   - component: {fileID: 5610594356224377285}
   m_Layer: 6
   m_Name: ForestBanner (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26766,7 +26766,7 @@ GameObject:
   - component: {fileID: 5610594356225046399}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26847,7 +26847,7 @@ GameObject:
   - component: {fileID: 5610594356227875689}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26928,7 +26928,7 @@ GameObject:
   - component: {fileID: 5610594356230824906}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27009,7 +27009,7 @@ GameObject:
   - component: {fileID: 5610594356232962763}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27090,7 +27090,7 @@ GameObject:
   - component: {fileID: 5610594356233423630}
   m_Layer: 6
   m_Name: ForestGroundDirt
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27171,7 +27171,7 @@ GameObject:
   - component: {fileID: 5610594356234302960}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27252,7 +27252,7 @@ GameObject:
   - component: {fileID: 5610594356245003822}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27333,7 +27333,7 @@ GameObject:
   - component: {fileID: 5610594356248517621}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27412,7 +27412,7 @@ GameObject:
   - component: {fileID: 5610594356248953837}
   m_Layer: 6
   m_Name: SouthObjects
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27447,7 +27447,7 @@ GameObject:
   - component: {fileID: 5610594356252013947}
   m_Layer: 6
   m_Name: Line (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27520,7 +27520,7 @@ GameObject:
   - component: {fileID: 5610594356252401920}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27599,7 +27599,7 @@ GameObject:
   - component: {fileID: 5610594356257565327}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27630,7 +27630,7 @@ GameObject:
   - component: {fileID: 5610594356257892093}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27663,7 +27663,7 @@ GameObject:
   - component: {fileID: 5610594356261927093}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27744,7 +27744,7 @@ GameObject:
   - component: {fileID: 5610594356262017069}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27823,7 +27823,7 @@ GameObject:
   - component: {fileID: 5610594356264395580}
   m_Layer: 6
   m_Name: Line (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27875,7 +27875,7 @@ GameObject:
   - component: {fileID: 5610594356268268373}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27907,7 +27907,7 @@ GameObject:
   - component: {fileID: 5610594356270165979}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27987,7 +27987,7 @@ GameObject:
   - component: {fileID: 5610594356274427997}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28076,7 +28076,7 @@ GameObject:
   - component: {fileID: 5610594356275608590}
   m_Layer: 6
   m_Name: ForestGroundDirt (12)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28157,7 +28157,7 @@ GameObject:
   - component: {fileID: 5610594356277291090}
   m_Layer: 6
   m_Name: ForestCastleDoorL_Blue
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28236,7 +28236,7 @@ GameObject:
   - component: {fileID: 5610594356281857802}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28267,7 +28267,7 @@ GameObject:
   - component: {fileID: 5610594356281974946}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28298,7 +28298,7 @@ GameObject:
   - component: {fileID: 5610594356285668264}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28331,7 +28331,7 @@ GameObject:
   - component: {fileID: 5610594356292087537}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28410,7 +28410,7 @@ GameObject:
   - component: {fileID: 5610594356293691815}
   m_Layer: 6
   m_Name: NorthDoor
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28444,7 +28444,7 @@ GameObject:
   - component: {fileID: 5610594356293905618}
   m_Layer: 6
   m_Name: SouthDoor
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28538,7 +28538,7 @@ GameObject:
   - component: {fileID: 5610594356301150028}
   m_Layer: 6
   m_Name: ForestBanner_Red (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28591,7 +28591,7 @@ GameObject:
   - component: {fileID: 5610594356303123830}
   m_Layer: 6
   m_Name: Line (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28664,7 +28664,7 @@ GameObject:
   - component: {fileID: 5610594356304127634}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28744,7 +28744,7 @@ GameObject:
   - component: {fileID: 5610594356306762448}
   m_Layer: 6
   m_Name: ForestBanner_Red (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28795,7 +28795,7 @@ GameObject:
   - component: {fileID: 5610594356307908463}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28827,7 +28827,7 @@ GameObject:
   - component: {fileID: 5610594356309287187}
   m_Layer: 6
   m_Name: ForestGroundDirt (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28908,7 +28908,7 @@ GameObject:
   - component: {fileID: 5610594356311980228}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28989,7 +28989,7 @@ GameObject:
   - component: {fileID: 5610594356317422729}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29069,7 +29069,7 @@ GameObject:
   - component: {fileID: 5610594356320212700}
   m_Layer: 6
   m_Name: ForestBanner_Red (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29121,7 +29121,7 @@ GameObject:
   - component: {fileID: 5610594356324018448}
   m_Layer: 6
   m_Name: ForestFlag_Red (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29177,7 +29177,7 @@ GameObject:
   - component: {fileID: 5610594356325931458}
   m_Layer: 6
   m_Name: NorthBridge
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29295,7 +29295,7 @@ GameObject:
   - component: {fileID: 5610594356329268528}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29328,7 +29328,7 @@ GameObject:
   - component: {fileID: 5610594356330153973}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29407,7 +29407,7 @@ GameObject:
   - component: {fileID: 5610594356331302271}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29440,7 +29440,7 @@ GameObject:
   - component: {fileID: 5610594356334380513}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29521,7 +29521,7 @@ GameObject:
   - component: {fileID: 5610594356341193882}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29600,7 +29600,7 @@ GameObject:
   - component: {fileID: 5610594356350138027}
   m_Layer: 6
   m_Name: DirtLine (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29644,7 +29644,7 @@ GameObject:
   - component: {fileID: 5610594356350401573}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29677,7 +29677,7 @@ GameObject:
   - component: {fileID: 5610594356352371945}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29758,7 +29758,7 @@ GameObject:
   - component: {fileID: 5610594356353398765}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29839,7 +29839,7 @@ GameObject:
   - component: {fileID: 5610594356356485179}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29920,7 +29920,7 @@ GameObject:
   - component: {fileID: 5610594356360641519}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30000,7 +30000,7 @@ GameObject:
   - component: {fileID: 5610594356361738900}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30089,7 +30089,7 @@ GameObject:
   - component: {fileID: 5610594356369639963}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30168,7 +30168,7 @@ GameObject:
   - component: {fileID: 5610594356370362143}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30200,7 +30200,7 @@ GameObject:
   - component: {fileID: 5610594356372709534}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30286,7 +30286,7 @@ GameObject:
   - component: {fileID: 5610594356373149752}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30318,7 +30318,7 @@ GameObject:
   - component: {fileID: 5610594356373600156}
   m_Layer: 6
   m_Name: ForestBanner (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30370,7 +30370,7 @@ GameObject:
   - component: {fileID: 5610594356374574441}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30450,7 +30450,7 @@ GameObject:
   - component: {fileID: 5610594356375547663}
   m_Layer: 6
   m_Name: ForestBanner_Red (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30503,7 +30503,7 @@ GameObject:
   - component: {fileID: 5610594356380617059}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30583,7 +30583,7 @@ GameObject:
   - component: {fileID: 5610594356382829686}
   m_Layer: 6
   m_Name: ForestFlag_Red (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30636,7 +30636,7 @@ GameObject:
   - component: {fileID: 5610594356387837002}
   m_Layer: 6
   m_Name: ForestGroundDirt (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30716,7 +30716,7 @@ GameObject:
   - component: {fileID: 5610594356388489076}
   m_Layer: 6
   m_Name: ForestBanner_Red (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30769,7 +30769,7 @@ GameObject:
   - component: {fileID: 5610594356395421868}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30848,7 +30848,7 @@ GameObject:
   - component: {fileID: 5610594356400444882}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30881,7 +30881,7 @@ GameObject:
   - component: {fileID: 5610594356403815512}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30962,7 +30962,7 @@ GameObject:
   - component: {fileID: 5610594356405283790}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31041,7 +31041,7 @@ GameObject:
   - component: {fileID: 5610594356405482449}
   m_Layer: 6
   m_Name: WestDoor
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31073,7 +31073,7 @@ GameObject:
   - component: {fileID: 5610594356408698727}
   m_Layer: 6
   m_Name: Line (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31125,7 +31125,7 @@ GameObject:
   - component: {fileID: 5610594356409702946}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31156,7 +31156,7 @@ GameObject:
   - component: {fileID: 5610594356409970518}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31187,7 +31187,7 @@ GameObject:
   - component: {fileID: 5610594356410421958}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31220,7 +31220,7 @@ GameObject:
   - component: {fileID: 5610594356413698201}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31299,7 +31299,7 @@ GameObject:
   - component: {fileID: 5610594356423394011}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31332,7 +31332,7 @@ GameObject:
   - component: {fileID: 5610594356430938660}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31413,7 +31413,7 @@ GameObject:
   - component: {fileID: 5610594356435290361}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31494,7 +31494,7 @@ GameObject:
   - component: {fileID: 5610594356436763649}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31575,7 +31575,7 @@ GameObject:
   - component: {fileID: 5610594356441180103}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31654,7 +31654,7 @@ GameObject:
   - component: {fileID: 5610594356442192656}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31685,7 +31685,7 @@ GameObject:
   - component: {fileID: 5610594356449714311}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31718,7 +31718,7 @@ GameObject:
   - component: {fileID: 5610594356449857714}
   m_Layer: 6
   m_Name: ForestGroundDirt (15)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31798,7 +31798,7 @@ GameObject:
   - component: {fileID: 5610594356450719935}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31886,7 +31886,7 @@ GameObject:
   - component: {fileID: 5610594356452034942}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31966,7 +31966,7 @@ GameObject:
   - component: {fileID: 5610594356462040284}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32053,7 +32053,7 @@ GameObject:
   - component: {fileID: 5610594356462331327}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32084,7 +32084,7 @@ GameObject:
   - component: {fileID: 5610594356465205342}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32115,7 +32115,7 @@ GameObject:
   - component: {fileID: 5610594356470644862}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32146,7 +32146,7 @@ GameObject:
   - component: {fileID: 5610594356471172866}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32179,7 +32179,7 @@ GameObject:
   - component: {fileID: 5610594356471314635}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32260,7 +32260,7 @@ GameObject:
   - component: {fileID: 5610594356472864795}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32341,7 +32341,7 @@ GameObject:
   - component: {fileID: 5610594356476257850}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32470,8 +32470,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4a6e87f3a4ffb24ab5bdd69efb50ded, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  monsterListInRoom: []
   roomObjectController: {fileID: 5610594355645211208}
   playerInThisRoom: 0
+  isOpened: 0
+  isClear: 0
 --- !u!114 &5610594356478367598
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32529,7 +32532,7 @@ GameObject:
   - component: {fileID: 5610594356486885148}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32610,7 +32613,7 @@ GameObject:
   - component: {fileID: 5610594356487816925}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32689,7 +32692,7 @@ GameObject:
   - component: {fileID: 5610594356490561358}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32721,7 +32724,7 @@ GameObject:
   - component: {fileID: 5610594356491226416}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32810,7 +32813,7 @@ GameObject:
   - component: {fileID: 5610594356495366873}
   m_Layer: 6
   m_Name: ForestGroundDirt (14)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32891,7 +32894,7 @@ GameObject:
   - component: {fileID: 5610594356499185068}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32972,7 +32975,7 @@ GameObject:
   - component: {fileID: 5610594356500582090}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33051,7 +33054,7 @@ GameObject:
   - component: {fileID: 5610594356508380179}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33083,7 +33086,7 @@ GameObject:
   - component: {fileID: 5610594356509462633}
   m_Layer: 6
   m_Name: ForestBanner (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33133,7 +33136,7 @@ GameObject:
   - component: {fileID: 5610594356513951366}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33164,7 +33167,7 @@ GameObject:
   - component: {fileID: 5610594356515830203}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33197,7 +33200,7 @@ GameObject:
   - component: {fileID: 5610594356517772659}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33276,7 +33279,7 @@ GameObject:
   - component: {fileID: 5610594356521366092}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33308,7 +33311,7 @@ GameObject:
   - component: {fileID: 5610594356521556303}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33395,7 +33398,7 @@ GameObject:
   - component: {fileID: 5610594356532101913}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33426,7 +33429,7 @@ GameObject:
   - component: {fileID: 5610594356532180504}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33458,7 +33461,7 @@ GameObject:
   - component: {fileID: 5610594356534896878}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33546,7 +33549,7 @@ GameObject:
   - component: {fileID: 5610594356542720254}
   m_Layer: 6
   m_Name: ForestGroundDirt (15)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33626,7 +33629,7 @@ GameObject:
   - component: {fileID: 5610594356548368543}
   m_Layer: 6
   m_Name: ForestBanner (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33678,7 +33681,7 @@ GameObject:
   - component: {fileID: 5610594356551361561}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33759,7 +33762,7 @@ GameObject:
   - component: {fileID: 5610594356553460796}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33840,7 +33843,7 @@ GameObject:
   - component: {fileID: 5610594356554327626}
   m_Layer: 6
   m_Name: ForestGroundDirt (13)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33921,7 +33924,7 @@ GameObject:
   - component: {fileID: 5610594356556366792}
   m_Layer: 6
   m_Name: ForestCastleDoorR_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34002,7 +34005,7 @@ GameObject:
   - component: {fileID: 5610594356557396264}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34083,7 +34086,7 @@ GameObject:
   - component: {fileID: 5610594356559083321}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34162,7 +34165,7 @@ GameObject:
   - component: {fileID: 5610594356560818295}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34192,7 +34195,7 @@ GameObject:
   - component: {fileID: 5610594356561460789}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34224,7 +34227,7 @@ GameObject:
   - component: {fileID: 5610594356561618172}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34313,7 +34316,7 @@ GameObject:
   - component: {fileID: 5610594356563528884}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34394,7 +34397,7 @@ GameObject:
   - component: {fileID: 5610594356568051703}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34475,7 +34478,7 @@ GameObject:
   - component: {fileID: 5610594356572321287}
   m_Layer: 6
   m_Name: ForestCastleDoorR_Blue
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34556,7 +34559,7 @@ GameObject:
   - component: {fileID: 5610594356572626274}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34637,7 +34640,7 @@ GameObject:
   - component: {fileID: 5610594356572669750}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34718,7 +34721,7 @@ GameObject:
   - component: {fileID: 5610594356576256670}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34799,7 +34802,7 @@ GameObject:
   - component: {fileID: 5610594356576824243}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34880,7 +34883,7 @@ GameObject:
   - component: {fileID: 5610594356578003742}
   m_Layer: 6
   m_Name: ForestGroundDirt (12)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34959,7 +34962,7 @@ GameObject:
   - component: {fileID: 5610594356580251639}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34992,7 +34995,7 @@ GameObject:
   - component: {fileID: 5610594356580980817}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35073,7 +35076,7 @@ GameObject:
   - component: {fileID: 5610594356584187201}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35152,7 +35155,7 @@ GameObject:
   - component: {fileID: 5610594356585843043}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35185,7 +35188,7 @@ GameObject:
   - component: {fileID: 5610594356587722480}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35264,7 +35267,7 @@ GameObject:
   - component: {fileID: 5610594356588679846}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35296,7 +35299,7 @@ GameObject:
   - component: {fileID: 5610594356591605846}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35377,7 +35380,7 @@ GameObject:
   - component: {fileID: 5610594356591897189}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35456,7 +35459,7 @@ GameObject:
   - component: {fileID: 5610594356595958954}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35488,7 +35491,7 @@ GameObject:
   - component: {fileID: 5610594356598327000}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35569,7 +35572,7 @@ GameObject:
   - component: {fileID: 5610594356601720417}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35650,7 +35653,7 @@ GameObject:
   - component: {fileID: 5610594356602543318}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35729,7 +35732,7 @@ GameObject:
   - component: {fileID: 5610594356602623437}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35762,7 +35765,7 @@ GameObject:
   - component: {fileID: 5610594356605967161}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35843,7 +35846,7 @@ GameObject:
   - component: {fileID: 5610594356607463223}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35924,7 +35927,7 @@ GameObject:
   - component: {fileID: 5610594356612701780}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36005,7 +36008,7 @@ GameObject:
   - component: {fileID: 5610594356616843258}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36086,7 +36089,7 @@ GameObject:
   - component: {fileID: 5610594356621982405}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36165,7 +36168,7 @@ GameObject:
   - component: {fileID: 5610594356622366339}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36198,7 +36201,7 @@ GameObject:
   - component: {fileID: 5610594356622994480}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36279,7 +36282,7 @@ GameObject:
   - component: {fileID: 5610594356623832402}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36358,7 +36361,7 @@ GameObject:
   - component: {fileID: 5610594356624969023}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36389,7 +36392,7 @@ GameObject:
   - component: {fileID: 5610594356636464238}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36422,7 +36425,7 @@ GameObject:
   - component: {fileID: 5610594356638537387}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36501,7 +36504,7 @@ GameObject:
   - component: {fileID: 5610594356642376582}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36532,7 +36535,7 @@ GameObject:
   - component: {fileID: 5610594356645240583}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36565,7 +36568,7 @@ GameObject:
   - component: {fileID: 5610594356646488014}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36646,7 +36649,7 @@ GameObject:
   - component: {fileID: 5610594356649700950}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36727,7 +36730,7 @@ GameObject:
   - component: {fileID: 5610594356652200524}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36806,7 +36809,7 @@ GameObject:
   - component: {fileID: 5610594356654452704}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36837,7 +36840,7 @@ GameObject:
   - component: {fileID: 5610594356656783049}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36868,7 +36871,7 @@ GameObject:
   - component: {fileID: 5610594356659047250}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36899,7 +36902,7 @@ GameObject:
   - component: {fileID: 5610594356662116634}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36932,7 +36935,7 @@ GameObject:
   - component: {fileID: 5610594356665272499}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37013,7 +37016,7 @@ GameObject:
   - component: {fileID: 5610594356667180140}
   m_Layer: 6
   m_Name: ForestGroundDirt (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37094,7 +37097,7 @@ GameObject:
   - component: {fileID: 5610594356667214616}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37173,7 +37176,7 @@ GameObject:
   - component: {fileID: 5610594356667378751}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37206,7 +37209,7 @@ GameObject:
   - component: {fileID: 5610594356667797235}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37285,7 +37288,7 @@ GameObject:
   - component: {fileID: 5610594356668706444}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37318,7 +37321,7 @@ GameObject:
   - component: {fileID: 5610594356671807297}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37398,7 +37401,7 @@ GameObject:
   - component: {fileID: 5610594356674011795}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37487,7 +37490,7 @@ GameObject:
   - component: {fileID: 5610594356675198917}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37566,7 +37569,7 @@ GameObject:
   - component: {fileID: 5610594356676222602}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37596,7 +37599,7 @@ GameObject:
   - component: {fileID: 5610594356678723421}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37629,7 +37632,7 @@ GameObject:
   - component: {fileID: 5610594356679226153}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37710,7 +37713,7 @@ GameObject:
   - component: {fileID: 5610594356681911198}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37791,7 +37794,7 @@ GameObject:
   - component: {fileID: 5610594356682203646}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37870,7 +37873,7 @@ GameObject:
   - component: {fileID: 5610594356682825161}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37903,7 +37906,7 @@ GameObject:
   - component: {fileID: 5610594356683386567}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37984,7 +37987,7 @@ GameObject:
   - component: {fileID: 5610594356687619356}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38063,7 +38066,7 @@ GameObject:
   - component: {fileID: 5610594356688979336}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38096,7 +38099,7 @@ GameObject:
   - component: {fileID: 5610594356690905821}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38175,7 +38178,7 @@ GameObject:
   - component: {fileID: 5610594356693124257}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38208,7 +38211,7 @@ GameObject:
   - component: {fileID: 5610594356698416987}
   m_Layer: 6
   m_Name: ForestGroundDirt (14)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38287,7 +38290,7 @@ GameObject:
   - component: {fileID: 5610594356701429326}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38320,7 +38323,7 @@ GameObject:
   - component: {fileID: 5610594356703579385}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38400,7 +38403,7 @@ GameObject:
   - component: {fileID: 5610594356705910890}
   m_Layer: 6
   m_Name: ForestFlag_Red (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38453,7 +38456,7 @@ GameObject:
   - component: {fileID: 5610594356711393845}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38534,7 +38537,7 @@ GameObject:
   - component: {fileID: 5610594356719247441}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38615,7 +38618,7 @@ GameObject:
   - component: {fileID: 5610594356720092621}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38695,7 +38698,7 @@ GameObject:
   - component: {fileID: 5610594356720599527}
   m_Layer: 6
   m_Name: ForestBanner_Red (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38746,7 +38749,7 @@ GameObject:
   - component: {fileID: 5610594356721532625}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38779,7 +38782,7 @@ GameObject:
   - component: {fileID: 5610594356723352786}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38858,7 +38861,7 @@ GameObject:
   - component: {fileID: 5610594356725209069}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38891,7 +38894,7 @@ GameObject:
   - component: {fileID: 5610594356727297353}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38972,7 +38975,7 @@ GameObject:
   - component: {fileID: 5610594356728808546}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39053,7 +39056,7 @@ GameObject:
   - component: {fileID: 5610594356731188277}
   m_Layer: 6
   m_Name: ForestGroundDirt (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39132,7 +39135,7 @@ GameObject:
   - component: {fileID: 5610594356733555993}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39162,7 +39165,7 @@ GameObject:
   - component: {fileID: 5610594356742603014}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39195,7 +39198,7 @@ GameObject:
   - component: {fileID: 5610594356746283254}
   m_Layer: 6
   m_Name: ForestGroundDirt (26)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39276,7 +39279,7 @@ GameObject:
   - component: {fileID: 5610594356749677840}
   m_Layer: 6
   m_Name: ForestGroundDirt (24)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39357,7 +39360,7 @@ GameObject:
   - component: {fileID: 5610594356755046108}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39438,7 +39441,7 @@ GameObject:
   - component: {fileID: 5610594356755106182}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39519,7 +39522,7 @@ GameObject:
   - component: {fileID: 5610594356758122701}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39600,7 +39603,7 @@ GameObject:
   - component: {fileID: 5610594356758363847}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39679,7 +39682,7 @@ GameObject:
   - component: {fileID: 5610594356761055311}
   m_Layer: 6
   m_Name: Line
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39733,7 +39736,7 @@ GameObject:
   - component: {fileID: 5610594356762137744}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39812,7 +39815,7 @@ GameObject:
   - component: {fileID: 5610594356762230317}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39843,7 +39846,7 @@ GameObject:
   - component: {fileID: 5610594356772019420}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39873,7 +39876,7 @@ GameObject:
   - component: {fileID: 5610594356775448624}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39904,7 +39907,7 @@ GameObject:
   - component: {fileID: 5610594356777259694}
   m_Layer: 6
   m_Name: ForestFlag_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39955,7 +39958,7 @@ GameObject:
   - component: {fileID: 5610594356781951440}
   m_Layer: 6
   m_Name: Bone.003
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39986,7 +39989,7 @@ GameObject:
   - component: {fileID: 5610594356790587723}
   m_Layer: 6
   m_Name: NorthObjects
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40021,7 +40024,7 @@ GameObject:
   - component: {fileID: 5610594356805041916}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40100,7 +40103,7 @@ GameObject:
   - component: {fileID: 5610594356807076934}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40131,7 +40134,7 @@ GameObject:
   - component: {fileID: 5610594356813708196}
   m_Layer: 6
   m_Name: ForestBanner_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40184,7 +40187,7 @@ GameObject:
   - component: {fileID: 5610594356814196239}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40263,7 +40266,7 @@ GameObject:
   - component: {fileID: 5610594356818357447}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40295,7 +40298,7 @@ GameObject:
   - component: {fileID: 5610594356820008626}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40376,7 +40379,7 @@ GameObject:
   - component: {fileID: 5610594356824049284}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40456,7 +40459,7 @@ GameObject:
   - component: {fileID: 5610594356824526108}
   m_Layer: 6
   m_Name: EastDoorWall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40503,7 +40506,7 @@ GameObject:
   - component: {fileID: 5610594356833393452}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40533,7 +40536,7 @@ GameObject:
   - component: {fileID: 5610594356836381917}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40566,7 +40569,7 @@ GameObject:
   - component: {fileID: 5610594356842569322}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40647,7 +40650,7 @@ GameObject:
   - component: {fileID: 5610594356844927918}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40728,7 +40731,7 @@ GameObject:
   - component: {fileID: 5610594356848417453}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40809,7 +40812,7 @@ GameObject:
   - component: {fileID: 5610594356849609547}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40890,7 +40893,7 @@ GameObject:
   - component: {fileID: 5610594356850236641}
   m_Layer: 6
   m_Name: ForestGroundDirt (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40969,7 +40972,7 @@ GameObject:
   - component: {fileID: 5610594356860091749}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41001,7 +41004,7 @@ GameObject:
   - component: {fileID: 5610594356860517133}
   m_Layer: 6
   m_Name: ForestCastleDoorL_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41080,7 +41083,7 @@ GameObject:
   - component: {fileID: 5610594356861259063}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41113,7 +41116,7 @@ GameObject:
   - component: {fileID: 5610594356863050863}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41194,7 +41197,7 @@ GameObject:
   - component: {fileID: 5610594356863074127}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41274,7 +41277,7 @@ GameObject:
   - component: {fileID: 5610594356863220681}
   m_Layer: 6
   m_Name: ForestBanner_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41327,7 +41330,7 @@ GameObject:
   - component: {fileID: 5610594356866135747}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41406,7 +41409,7 @@ GameObject:
   - component: {fileID: 5610594356866575623}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41439,7 +41442,7 @@ GameObject:
   - component: {fileID: 5610594356868029334}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41518,7 +41521,7 @@ GameObject:
   - component: {fileID: 5610594356878030996}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41551,7 +41554,7 @@ GameObject:
   - component: {fileID: 5610594356878169630}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41632,7 +41635,7 @@ GameObject:
   - component: {fileID: 5610594356886999143}
   m_Layer: 6
   m_Name: ForestGroundDirt (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41713,7 +41716,7 @@ GameObject:
   - component: {fileID: 5610594356890155331}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41794,7 +41797,7 @@ GameObject:
   - component: {fileID: 5610594356892302734}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41873,7 +41876,7 @@ GameObject:
   - component: {fileID: 5610594356893572840}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41906,7 +41909,7 @@ GameObject:
   - component: {fileID: 5610594356893615171}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41987,7 +41990,7 @@ GameObject:
   - component: {fileID: 5610594356895571174}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42068,7 +42071,7 @@ GameObject:
   - component: {fileID: 5610594356896865550}
   m_Layer: 6
   m_Name: ForestGroundDirt (24)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42149,7 +42152,7 @@ GameObject:
   - component: {fileID: 5610594356902633087}
   m_Layer: 6
   m_Name: ForestGround02 (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42228,7 +42231,7 @@ GameObject:
   - component: {fileID: 5610594356903202981}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42261,7 +42264,7 @@ GameObject:
   - component: {fileID: 5610594356906968794}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42340,7 +42343,7 @@ GameObject:
   - component: {fileID: 5610594356909894995}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42373,7 +42376,7 @@ GameObject:
   - component: {fileID: 5610594356912315981}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42452,7 +42455,7 @@ GameObject:
   - component: {fileID: 5610594356917901217}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42483,7 +42486,7 @@ GameObject:
   - component: {fileID: 5610594356919910594}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42516,7 +42519,7 @@ GameObject:
   - component: {fileID: 5610594356921984836}
   m_Layer: 6
   m_Name: ForestGround01 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42597,7 +42600,7 @@ GameObject:
   - component: {fileID: 5610594356923617787}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42678,7 +42681,7 @@ GameObject:
   - component: {fileID: 5610594356928196026}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42759,7 +42762,7 @@ GameObject:
   - component: {fileID: 5610594356933187326}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42839,7 +42842,7 @@ GameObject:
   - component: {fileID: 5610594355645211208}
   m_Layer: 6
   m_Name: MapBase
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42903,7 +42906,7 @@ GameObject:
   - component: {fileID: 5610594356934950962}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42936,7 +42939,7 @@ GameObject:
   - component: {fileID: 5610594356935125484}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43017,7 +43020,7 @@ GameObject:
   - component: {fileID: 5610594356936493270}
   m_Layer: 6
   m_Name: ForestCastleDoorR_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43096,7 +43099,7 @@ GameObject:
   - component: {fileID: 5610594356937026625}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43129,7 +43132,7 @@ GameObject:
   - component: {fileID: 5610594356937500920}
   m_Layer: 6
   m_Name: Line (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43209,7 +43212,7 @@ GameObject:
   - component: {fileID: 5610594356939753432}
   m_Layer: 6
   m_Name: ForestGroundDirt (28)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43290,7 +43293,7 @@ GameObject:
   - component: {fileID: 5610594356945599618}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43371,7 +43374,7 @@ GameObject:
   - component: {fileID: 5610594356947872207}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43452,7 +43455,7 @@ GameObject:
   - component: {fileID: 5610594356948418059}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43533,7 +43536,7 @@ GameObject:
   - component: {fileID: 5610594356948599515}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43614,7 +43617,7 @@ GameObject:
   - component: {fileID: 5610594356949687099}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43694,7 +43697,7 @@ GameObject:
   - component: {fileID: 5610594356954479667}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43782,7 +43785,7 @@ GameObject:
   - component: {fileID: 5610594356956674116}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43871,7 +43874,7 @@ GameObject:
   - component: {fileID: 5610594356958153483}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43952,7 +43955,7 @@ GameObject:
   - component: {fileID: 5610594356961877646}
   m_Layer: 6
   m_Name: ForestGround02 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44033,7 +44036,7 @@ GameObject:
   - component: {fileID: 5610594356964667415}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44114,7 +44117,7 @@ GameObject:
   - component: {fileID: 5610594356973516927}
   m_Layer: 6
   m_Name: ForestGround02 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44195,7 +44198,7 @@ GameObject:
   - component: {fileID: 5610594356976283340}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44274,7 +44277,7 @@ GameObject:
   - component: {fileID: 5610594356976787324}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44305,7 +44308,7 @@ GameObject:
   - component: {fileID: 5610594356978389537}
   m_Layer: 6
   m_Name: Line (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44359,7 +44362,7 @@ GameObject:
   - component: {fileID: 5610594356979808918}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44438,7 +44441,7 @@ GameObject:
   - component: {fileID: 5610594356980736638}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44469,7 +44472,7 @@ GameObject:
   - component: {fileID: 5610594356981057575}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44500,7 +44503,7 @@ GameObject:
   - component: {fileID: 5610594356989990848}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44533,7 +44536,7 @@ GameObject:
   - component: {fileID: 5610594356990951301}
   m_Layer: 6
   m_Name: ForestGroundDirt (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44614,7 +44617,7 @@ GameObject:
   - component: {fileID: 5610594356991397867}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44693,7 +44696,7 @@ GameObject:
   - component: {fileID: 5610594356992102617}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44726,7 +44729,7 @@ GameObject:
   - component: {fileID: 5610594356995564867}
   m_Layer: 6
   m_Name: ForestGround01 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44807,7 +44810,7 @@ GameObject:
   - component: {fileID: 5610594356996031425}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44888,7 +44891,7 @@ GameObject:
   - component: {fileID: 5610594356999897628}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44969,7 +44972,7 @@ GameObject:
   - component: {fileID: 5610594357001395911}
   m_Layer: 6
   m_Name: ForestGroundDirt (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45048,7 +45051,7 @@ GameObject:
   - component: {fileID: 5610594357002093321}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45081,7 +45084,7 @@ GameObject:
   - component: {fileID: 5610594357012083919}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45160,7 +45163,7 @@ GameObject:
   - component: {fileID: 5610594357012262057}
   m_Layer: 6
   m_Name: OutLine
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45194,7 +45197,7 @@ GameObject:
   - component: {fileID: 5610594357019459801}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45227,7 +45230,7 @@ GameObject:
   - component: {fileID: 5610594357019857984}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45311,7 +45314,7 @@ GameObject:
   - component: {fileID: 5610594357030167669}
   m_Layer: 6
   m_Name: EastBridge
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45431,7 +45434,7 @@ GameObject:
   - component: {fileID: 5610594357034117478}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45512,7 +45515,7 @@ GameObject:
   - component: {fileID: 5610594357035951739}
   m_Layer: 6
   m_Name: ForestGroundDirt (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45593,7 +45596,7 @@ GameObject:
   - component: {fileID: 5610594357036176021}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45674,7 +45677,7 @@ GameObject:
   - component: {fileID: 5610594357037287771}
   m_Layer: 6
   m_Name: ForestGround02 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45753,7 +45756,7 @@ GameObject:
   - component: {fileID: 5610594357037596297}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45786,7 +45789,7 @@ GameObject:
   - component: {fileID: 5610594357038801174}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45867,7 +45870,7 @@ GameObject:
   - component: {fileID: 5610594357038823208}
   m_Layer: 6
   m_Name: ForestCastleDoorR_Blue
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45948,7 +45951,7 @@ GameObject:
   - component: {fileID: 5610594357039818409}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46027,7 +46030,7 @@ GameObject:
   - component: {fileID: 5610594357040928495}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46057,7 +46060,7 @@ GameObject:
   - component: {fileID: 5610594357042542021}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46088,7 +46091,7 @@ GameObject:
   - component: {fileID: 5610594357046632759}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46119,7 +46122,7 @@ GameObject:
   - component: {fileID: 5610594357057338208}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46150,7 +46153,7 @@ GameObject:
   - component: {fileID: 5610594357062792204}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46181,7 +46184,7 @@ GameObject:
   - component: {fileID: 5610594357067131526}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46213,7 +46216,7 @@ GameObject:
   - component: {fileID: 5610594357070362026}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46301,7 +46304,7 @@ GameObject:
   - component: {fileID: 5610594357071361464}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46380,7 +46383,7 @@ GameObject:
   - component: {fileID: 5610594357074641087}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46413,7 +46416,7 @@ GameObject:
   - component: {fileID: 5610594357077477513}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46492,7 +46495,7 @@ GameObject:
   - component: {fileID: 5610594357079744716}
   m_Layer: 6
   m_Name: DirtLine
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46544,7 +46547,7 @@ GameObject:
   - component: {fileID: 5610594357081383251}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46623,7 +46626,7 @@ GameObject:
   - component: {fileID: 5610594357082519405}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46654,7 +46657,7 @@ GameObject:
   - component: {fileID: 5610594357082562305}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46686,7 +46689,7 @@ GameObject:
   - component: {fileID: 5610594357088352466}
   m_Layer: 6
   m_Name: ForestBanner (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46738,7 +46741,7 @@ GameObject:
   - component: {fileID: 5610594357090640797}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46819,7 +46822,7 @@ GameObject:
   - component: {fileID: 5610594357092356907}
   m_Layer: 6
   m_Name: ForestGround01 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46899,7 +46902,7 @@ GameObject:
   - component: {fileID: 5610594357095990938}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46987,7 +46990,7 @@ GameObject:
   - component: {fileID: 5610594357098061723}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47068,7 +47071,7 @@ GameObject:
   - component: {fileID: 5610594357103878355}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47149,7 +47152,7 @@ GameObject:
   - component: {fileID: 5610594357104494960}
   m_Layer: 6
   m_Name: ForestGround02 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47230,7 +47233,7 @@ GameObject:
   - component: {fileID: 5610594357105684418}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47309,7 +47312,7 @@ GameObject:
   - component: {fileID: 5610594357105884968}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47342,7 +47345,7 @@ GameObject:
   - component: {fileID: 5610594357106814950}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47423,7 +47426,7 @@ GameObject:
   - component: {fileID: 5610594357110610030}
   m_Layer: 6
   m_Name: ForestGround02 (10)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47502,7 +47505,7 @@ GameObject:
   - component: {fileID: 5610594357112272689}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47535,7 +47538,7 @@ GameObject:
   - component: {fileID: 5610594357119598643}
   m_Layer: 6
   m_Name: EastDoor
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47630,7 +47633,7 @@ GameObject:
   - component: {fileID: 5610594357120955585}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47709,7 +47712,7 @@ GameObject:
   - component: {fileID: 5610594357124398810}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47742,7 +47745,7 @@ GameObject:
   - component: {fileID: 5610594357125187859}
   m_Layer: 6
   m_Name: ForestGround02 (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47823,7 +47826,7 @@ GameObject:
   - component: {fileID: 5610594357126700307}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47904,7 +47907,7 @@ GameObject:
   - component: {fileID: 5610594357132248381}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47983,7 +47986,7 @@ GameObject:
   - component: {fileID: 5610594357137295484}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48016,7 +48019,7 @@ GameObject:
   - component: {fileID: 5610594357145060409}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48095,7 +48098,7 @@ GameObject:
   - component: {fileID: 5610594357147403530}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48127,7 +48130,7 @@ GameObject:
   - component: {fileID: 5610594357149027130}
   m_Layer: 6
   m_Name: ForestCastleDoorL_Blue
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48206,7 +48209,7 @@ GameObject:
   - component: {fileID: 5610594357154499613}
   m_Layer: 6
   m_Name: DirtLine (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48252,7 +48255,7 @@ GameObject:
   - component: {fileID: 5610594357155039509}
   m_Layer: 6
   m_Name: ForestGround02 (2)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48333,7 +48336,7 @@ GameObject:
   - component: {fileID: 5610594357156819796}
   m_Layer: 6
   m_Name: ForestGroundDirt
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48412,7 +48415,7 @@ GameObject:
   - component: {fileID: 5610594357161469862}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48445,7 +48448,7 @@ GameObject:
   - component: {fileID: 5610594357163383840}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48524,7 +48527,7 @@ GameObject:
   - component: {fileID: 5610594357166539334}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48557,7 +48560,7 @@ GameObject:
   - component: {fileID: 5610594357168680574}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48638,7 +48641,7 @@ GameObject:
   - component: {fileID: 5610594357169929706}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48719,7 +48722,7 @@ GameObject:
   - component: {fileID: 5610594357180970957}
   m_Layer: 6
   m_Name: ForestGround01 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48800,7 +48803,7 @@ GameObject:
   - component: {fileID: 5610594357185213187}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48881,7 +48884,7 @@ GameObject:
   - component: {fileID: 5610594357186502658}
   m_Layer: 6
   m_Name: ForestGroundDirt (8)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48962,7 +48965,7 @@ GameObject:
   - component: {fileID: 5610594357191741251}
   m_Layer: 6
   m_Name: ForestGround02 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49043,7 +49046,7 @@ GameObject:
   - component: {fileID: 5610594357196512239}
   m_Layer: 6
   m_Name: ForestCastleDoorR_Blue
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49123,7 +49126,7 @@ GameObject:
   - component: {fileID: 5610594357197838045}
   m_Layer: 6
   m_Name: ForestFlag_Red (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49174,7 +49177,7 @@ GameObject:
   - component: {fileID: 5610594357201091505}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49206,7 +49209,7 @@ GameObject:
   - component: {fileID: 5610594357202566570}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49292,7 +49295,7 @@ GameObject:
   - component: {fileID: 5610594357202765507}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49323,7 +49326,7 @@ GameObject:
   - component: {fileID: 5610594357203399259}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49356,7 +49359,7 @@ GameObject:
   - component: {fileID: 5610594357206730237}
   m_Layer: 6
   m_Name: ForestGroundDirt (13)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49435,7 +49438,7 @@ GameObject:
   - component: {fileID: 5610594357209947492}
   m_Layer: 6
   m_Name: ForestBanner.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49468,7 +49471,7 @@ GameObject:
   - component: {fileID: 5610594357213057129}
   m_Layer: 6
   m_Name: ForestGroundDirt (11)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49549,7 +49552,7 @@ GameObject:
   - component: {fileID: 5610594357213956424}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49628,7 +49631,7 @@ GameObject:
   - component: {fileID: 5610594357220043988}
   m_Layer: 6
   m_Name: Bone.003_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49658,7 +49661,7 @@ GameObject:
   - component: {fileID: 5610594357221481581}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49689,7 +49692,7 @@ GameObject:
   - component: {fileID: 5610594357227668544}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49720,7 +49723,7 @@ GameObject:
   - component: {fileID: 5610594357228467227}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49751,7 +49754,7 @@ GameObject:
   - component: {fileID: 5610594357228703541}
   m_Layer: 6
   m_Name: Bone.002_end_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49783,7 +49786,7 @@ GameObject:
   - component: {fileID: 5610594357234105466}
   m_Layer: 6
   m_Name: ForestCastleDoorL_Red
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49862,7 +49865,7 @@ GameObject:
   - component: {fileID: 5610594357236072928}
   m_Layer: 6
   m_Name: WestObjects
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49896,7 +49899,7 @@ GameObject:
   - component: {fileID: 5610594357241321981}
   m_Layer: 6
   m_Name: ForestBanner_Red (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49947,7 +49950,7 @@ GameObject:
   - component: {fileID: 5610594357244069932}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49980,7 +49983,7 @@ GameObject:
   - component: {fileID: 5610594357246076508}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50060,7 +50063,7 @@ GameObject:
   - component: {fileID: 5610594357247954519}
   m_Layer: 6
   m_Name: ForestBanner
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50146,7 +50149,7 @@ GameObject:
   - component: {fileID: 5610594357248206467}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50179,7 +50182,7 @@ GameObject:
   - component: {fileID: 5610594357255199586}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50258,7 +50261,7 @@ GameObject:
   - component: {fileID: 5610594357259019297}
   m_Layer: 6
   m_Name: Bone.002
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50291,7 +50294,7 @@ GameObject:
   - component: {fileID: 5610594357259507269}
   m_Layer: 6
   m_Name: Line
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50371,7 +50374,7 @@ GameObject:
   - component: {fileID: 5610594357266445553}
   m_Layer: 6
   m_Name: ForestGround01 (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50450,7 +50453,7 @@ GameObject:
   - component: {fileID: 5610594357274932192}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50483,7 +50486,7 @@ GameObject:
   - component: {fileID: 5610594357275705347}
   m_Layer: 6
   m_Name: ForestGround02
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50564,7 +50567,7 @@ GameObject:
   - component: {fileID: 5610594357280763941}
   m_Layer: 6
   m_Name: ForestGround01 (9)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50643,7 +50646,7 @@ GameObject:
   - component: {fileID: 5610594357284062775}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50676,7 +50679,7 @@ GameObject:
   - component: {fileID: 5610594357290465222}
   m_Layer: 6
   m_Name: ForestGround01
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50755,7 +50758,7 @@ GameObject:
   - component: {fileID: 5610594357292059491}
   m_Layer: 6
   m_Name: FlagArm
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50786,7 +50789,7 @@ GameObject:
   - component: {fileID: 5610594357292453238}
   m_Layer: 6
   m_Name: Bone.001
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50817,7 +50820,7 @@ GameObject:
   - component: {fileID: 5610594357301389287}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50850,7 +50853,7 @@ GameObject:
   - component: {fileID: 5610594357302041918}
   m_Layer: 6
   m_Name: ForestCastleWindow
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50929,7 +50932,7 @@ GameObject:
   - component: {fileID: 5610594357302681966}
   m_Layer: 6
   m_Name: Bone.002_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50962,7 +50965,7 @@ GameObject:
   - component: {fileID: 5610594357306069588}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51042,7 +51045,7 @@ GameObject:
   - component: {fileID: 5610594357306283455}
   m_Layer: 6
   m_Name: ForestBanner_Red (1)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51095,7 +51098,7 @@ GameObject:
   - component: {fileID: 5610594357306598230}
   m_Layer: 6
   m_Name: ForestGround01 (3)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51176,7 +51179,7 @@ GameObject:
   - component: {fileID: 5610594357308365787}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51256,7 +51259,7 @@ GameObject:
   - component: {fileID: 5610594357308461665}
   m_Layer: 6
   m_Name: ForestFlag
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51345,7 +51348,7 @@ GameObject:
   - component: {fileID: 5610594357315281574}
   m_Layer: 6
   m_Name: ForestGround02 (7)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51426,7 +51429,7 @@ GameObject:
   - component: {fileID: 5610594357330123114}
   m_Layer: 6
   m_Name: ForestGround01 (5)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51507,7 +51510,7 @@ GameObject:
   - component: {fileID: 5610594357330278915}
   m_Layer: 6
   m_Name: ForestGround01 (6)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51586,7 +51589,7 @@ GameObject:
   - component: {fileID: 5610594357332458538}
   m_Layer: 6
   m_Name: Bone
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51617,7 +51620,7 @@ GameObject:
   - component: {fileID: 5610594357336943401}
   m_Layer: 6
   m_Name: Bone.003_end
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51650,7 +51653,7 @@ GameObject:
   - component: {fileID: 5610594357337303779}
   m_Layer: 6
   m_Name: ForestGround02 (4)
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

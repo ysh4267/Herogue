@@ -28,14 +28,7 @@ public class EnemyRedSlime : EnemyMeleeFSM {
 
     // Update is called once per frame
     void Update() {
-        //Enemy가 죽으면
-        if (enemyCurrentHP <= 0) {
-            navMeshAgent.isStopped = true; //네비매쉬 정지
 
-            enemyRigidBody.gameObject.SetActive(false); //충돌판정 삭제
-            Destroy(transform.parent.gameObject); //해당 오브젝트 삭제
-            return;
-        }
     }
 
     public override void StartAttackHit() {

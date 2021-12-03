@@ -45,12 +45,10 @@ public class EnemyBase : MonoBehaviour {
         Debug.DrawRay(new Vector3(transform.position.x, 2.5f, transform.position.z), targetDir * 50f, Color.green);
         //레이캐스트가 아무것도 적중하지 못했을 시
         if (hit.transform == null) {
-            Debug.Log("hit.transForm == null");
             return false;
         }
         //플레이어에게 레이캐스트가 적중하고 Enemy와 Player사이의 거리값이 공격사거리보다 작으면 true
         if (hit.transform.CompareTag("Player") && distance <= enemyAttackRange) {
-            Debug.Log("사거리 안의 플레이어 감지됨");
             return true;
         }
         //30거리안에 플레이어가 없거나 레이캐스트가 벽에 막혔다면 false

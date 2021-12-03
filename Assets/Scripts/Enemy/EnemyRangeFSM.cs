@@ -60,9 +60,12 @@ public class EnemyRangeFSM : EnemyBase {
             enemyAnimator.SetTrigger("Idle");
         }
         navMeshAgent.isStopped = true;
-
+        //Enemy가 죽으면
+        if (enemyCurrentHP <= 0) {
+            currentState = State.Dead;
+        }
         //공격 사거리 안에 플레이어가 있는가
-        if (CanAtkStateFun()) {
+        else if (CanAtkStateFun()) {
             //공격 쿨타임이 돌았으면 공격
             if (canAtk) {
                 currentState = State.Attack;
@@ -120,7 +123,6 @@ public class EnemyRangeFSM : EnemyBase {
             Physics.Raycast(NewPosition, NewDir, out RaycastHit hit, 50.0f, _layerMask);
             //라인렌더러의 지점갯수를 증가시키고 두번째 꼭짓점을 추가
             lineRenderer.positionCount++;
-            Debug.Log("Hit Line : " + hit.point);
             if (hit.transform == null) { 
                 lineRenderer.SetPosition(i, NewPosition + (NewDir * 50)); 
                 break;
@@ -147,9 +149,12 @@ public class EnemyRangeFSM : EnemyBase {
             enemyAnimator.SetTrigger("Move");
         }
         navMeshAgent.isStopped = false;
-        
+        //Enemy가 죽으면
+        if (enemyCurrentHP <= 0) {
+            currentState = State.Dead;
+        }
         //공격쿨타임 계산함수와 공격사거리 함수가 동시에 만족하면 공격상태로 변경
-        if (CanAtkStateFun() && canAtk) {
+        else if (CanAtkStateFun() && canAtk) {
             currentState = State.Attack;
         }
         //위의 경우가 아니라면 Player를 향해 이동한다
@@ -158,4 +163,15 @@ public class EnemyRangeFSM : EnemyBase {
         }
     }
 
+    
+    protected virtual IEnumerator Dead() {
+        yield return null;
+        navMeshAgent.isStopped = true;
+        //애니메이션 상태가 반복해서 재지정 되어서 애니메이션의 시작부분만 반복하지 않게하기위한 조건문
+        if (!enemyAnimator.GetCurrentAnimatorStateInfo(0).IsName("Dead")) {
+            enemyAnimator.SetTrigger("Dead");
+        }
+        enemyParentRoom.GetComponent<RoomCondition>().monsterListInRoom.Remove(this.gameObject);
+        Destroy(this.transform.gameObject, 0.5f);
+    }
 }

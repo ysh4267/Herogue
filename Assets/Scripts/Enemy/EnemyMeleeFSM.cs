@@ -8,9 +8,9 @@ public class EnemyMeleeFSM : EnemyBase {
         Idle,
         Move,
         Attack,
+        Dead
     };
     [SerializeField] protected NavMeshAgent navMeshAgent;
-
     State currentState = State.Idle;
 
     // Start is called before the first frame update
@@ -46,12 +46,14 @@ public class EnemyMeleeFSM : EnemyBase {
         if (!enemyAnimator.GetCurrentAnimatorStateInfo(0).IsName("Idle")) {
             enemyAnimator.SetTrigger("Idle");
         }
-
+        //Enemy가 죽으면
+        if (enemyCurrentHP <= 0) {
+            currentState = State.Dead;
+        }
         //공격 사거리 안에 플레이어가 있는가
-        if (CanAtkStateFun()) {
+        else if (CanAtkStateFun()) {
             //공격 쿨타임이 돌았으면 공격
             if (canAtk) {
-                Debug.Log("공격상태로 전환됨");
                 currentState = State.Attack;
             }
             //사거리안에 플레이어는 있지만 공격 쿨타임은 아직이라면 대기
@@ -100,18 +102,31 @@ public class EnemyMeleeFSM : EnemyBase {
         if (!enemyAnimator.GetCurrentAnimatorStateInfo(0).IsName("Walk")) {
             enemyAnimator.SetTrigger("Walk");
         }
+        //Enemy가 죽으면
+        if (enemyCurrentHP <= 0) {
+            currentState = State.Dead;
+        }
         //공격쿨타임 계산함수와 공격사거리 함수가 동시에 만족하면 공격상태로 변경
-        if (CanAtkStateFun() && canAtk) {
+        else if (CanAtkStateFun() && canAtk) {
             currentState = State.Attack;
         }
-        // //플레이어와 Enemy사이의 거리가 플레이어 인식거리보다 멀다면 5f의 속도로 맵의 중앙을 향해 무조건 이동함
-        // else if (distance > playerRealizeRange) {
-        //     navMeshAgent.SetDestination(transform.parent.position - Vector3.forward * 5f);
-        // }
         //위의 경우가 아니라면 Player를 향해 이동한다
         else {
             navMeshAgent.SetDestination(Player.transform.position);
         }
     }
+
+    protected virtual IEnumerator Dead() {
+        yield return null;
+        navMeshAgent.isStopped = true;
+        //애니메이션 상태가 반복해서 재지정 되어서 애니메이션의 시작부분만 반복하지 않게하기위한 조건문
+        if (!enemyAnimator.GetCurrentAnimatorStateInfo(0).IsName("Dead")) {
+            enemyAnimator.SetTrigger("Dead");
+        }
+        Debug.Log(this.transform.gameObject);
+        enemyParentRoom.GetComponent<RoomCondition>().monsterListInRoom.Remove(this.gameObject);
+        Destroy(this.transform.gameObject, 0.5f);
+    }
+
 
 }
