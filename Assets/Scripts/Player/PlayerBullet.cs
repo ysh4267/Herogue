@@ -25,10 +25,14 @@ public class PlayerBullet : MonoBehaviour {
     }
 
     void OnCollisionEnter(Collision collision) {
+        if (collision.transform.CompareTag("Monster")) {
+            collision.transform.GetComponent<EnemyBase>().Damaged(bulletDamage);
+            Destroy(gameObject);
+        }
+        //벽에 닿았을때
         if (collision.transform.CompareTag("Wall")) {
-            //벽에 닿았을때
+            //튕기는 스킬이 있다면
             if (SingletonDataManager.Instance.isBulletBounce) {
-                //튕기는 스킬이 있다면
                 newDir = Vector3.Reflect(newDir, collision.contacts[0].normal);
                 GetComponent<Rigidbody>().velocity = newDir * bulletSpd;
             }

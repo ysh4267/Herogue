@@ -16,14 +16,13 @@ public class EnemyBase : MonoBehaviour {
     protected GameObject Player;
     protected float distance; //플레이어와의 거리값
     protected bool canAtk = true; //공격쿨타임중인지 판별하기위한 불값
-    int layerMask; //레이캐스트용 레이어 마스크
+    protected int layerMask; //레이캐스트용 레이어 마스크
 
     protected virtual void InitMonster() { } //적 수치값 수정용 초기화함수
 
     // Start is called before the first frame update
     protected void Start() {
         Player = GameObject.FindGameObjectWithTag("Player");
-
 
         //공격 쿨타임을 코루틴을 활용하여 계속 실행시킴
         StartCoroutine(CalcCoolTime());
@@ -41,9 +40,9 @@ public class EnemyBase : MonoBehaviour {
 
         layerMask = (1 << LayerMask.NameToLayer("Wall")) + (1 << LayerMask.NameToLayer("Player")); //마스크 설정
 
-        Physics.Raycast(new Vector3(transform.position.x, 2.5f, transform.position.z), targetDir, out hit, 30f, layerMask); //Enemy에서 targetDir방향으로 30거리만큼만 레이캐스트
+        Physics.Raycast(new Vector3(transform.position.x, 2.5f, transform.position.z), targetDir, out hit, 50f, layerMask); //Enemy에서 targetDir방향으로 30거리만큼만 레이캐스트
         distance = Vector3.Distance(Player.transform.position, transform.position); //Enemy와 Player사이의 거리값
-        Debug.DrawRay(new Vector3(transform.position.x, 2.5f, transform.position.z), targetDir * 30f, Color.green);
+        Debug.DrawRay(new Vector3(transform.position.x, 2.5f, transform.position.z), targetDir * 50f, Color.green);
         //레이캐스트가 아무것도 적중하지 못했을 시
         if (hit.transform == null) {
             Debug.Log("hit.transForm == null");
@@ -75,5 +74,17 @@ public class EnemyBase : MonoBehaviour {
                 }
             }
         }
+    }
+
+    public void Damaged(float _damage) {
+        enemyCurrentHP -= _damage; //체력감소
+    }
+
+    public virtual void StartAttackHit() {
+
+    }
+
+    public virtual void EndAttackHit() {
+
     }
 }

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EnemyRedSlime : EnemyMeleeFSM {
     [SerializeField] GameObject meleeAtkArea; //Sphere Collider를 이용한 공격 사거리 콜라이더
+    [SerializeField] EnemyRedSlimeMeleeAtkAreaController atkAreaController;
 
     //플레이어 인식범위와 공격사거리를 OnDrawGizmos 함수를 통해 시각화함
     private void OnDrawGizmosSelected() {
@@ -14,15 +15,16 @@ public class EnemyRedSlime : EnemyMeleeFSM {
     // Start is called before the first frame update
     new void Start() {
         base.Start();
-
-        // //몬스터의 체력과 공격력을 초기화
-        // enemyMaxHP = 5f;
-        // enemyCurrentHP = enemyMaxHP;
-        // enemyAttackDamage = 1;
-        navMeshAgent.speed = enemyMoveSpeed;
-        navMeshAgent.stoppingDistance = enemyAttackRange;
+        InitMonster();
     }
 
+    protected override void InitMonster() {
+        // //몬스터를 초기화
+        enemyCurrentHP = enemyMaxHP;
+        navMeshAgent.speed = enemyMoveSpeed;
+        navMeshAgent.stoppingDistance = enemyAttackRange;
+        atkAreaController.damage = enemyAttackDamage;
+    }
 
     // Update is called once per frame
     void Update() {
@@ -36,7 +38,12 @@ public class EnemyRedSlime : EnemyMeleeFSM {
         }
     }
 
-    public void Damaged(float _damage) {
-        enemyCurrentHP -= _damage; //체력감소
+    public override void StartAttackHit() {
+        meleeAtkArea.SetActive(true);
     }
+
+    public override void EndAttackHit() {
+        meleeAtkArea.SetActive(false);
+    }
+
 }
