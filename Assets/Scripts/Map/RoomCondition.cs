@@ -25,13 +25,6 @@ public class RoomCondition : MonoBehaviour {
             CameraController.playerRoomType = GetComponent<RoomCordinate>().roomType;
         }
 
-        if (other.gameObject.CompareTag("Player")) {
-            playerInThisRoom = true;
-            if (!isClear) {
-                roomObjectController.CloseDoor();
-            }
-        }
-
         if (other.CompareTag("Monster")) {
             //몬스터가 방에 있는가
             monsterListInRoom.Add(other.gameObject); //콜라이더에 부딪힌 몬스터를 MonsterListInRoom에 추가

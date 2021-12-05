@@ -42,6 +42,10 @@ public class PlayerBullet : MonoBehaviour {
                 Destroy(gameObject);
             }
         }
+        if (collision.transform.CompareTag("Training")) {
+            collision.transform.GetComponent<TutorialDummyController>().Damaged();
+            Destroy(gameObject);
+        }
     }
 
     // Update is called once per frame

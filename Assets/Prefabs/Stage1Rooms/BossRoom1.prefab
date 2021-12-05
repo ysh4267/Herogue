@@ -32,6 +32,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2291104485461203925}
+  - {fileID: 1417941253762349902}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -60,8 +61,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4a6e87f3a4ffb24ab5bdd69efb50ded, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  monsterListInRoom: []
   roomObjectController: {fileID: 2543672813511985806}
   playerInThisRoom: 0
+  isOpened: 0
+  isClear: 0
 --- !u!114 &-8326956727136621521
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -106,6 +110,68 @@ MonoBehaviour:
   m_VoxelSize: 0.16666667
   m_BuildHeightMesh: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &1512908143925772841
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8761900699152001507}
+    m_Modifications:
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 530180015573815795, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+      propertyPath: m_Name
+      value: BlueBossGolem
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+--- !u!4 &1417941253762349902 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 527879922868140391, guid: 37abf0f77fa3f1a48b45daaa69f0a629, type: 3}
+  m_PrefabInstance: {fileID: 1512908143925772841}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6062602672517468315
 PrefabInstance:
   m_ObjectHideFlags: 0

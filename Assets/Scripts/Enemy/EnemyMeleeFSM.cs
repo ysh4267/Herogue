@@ -123,7 +123,6 @@ public class EnemyMeleeFSM : EnemyBase {
         if (!enemyAnimator.GetCurrentAnimatorStateInfo(0).IsName("Dead")) {
             enemyAnimator.SetTrigger("Dead");
         }
-        Debug.Log(this.transform.gameObject);
         enemyParentRoom.GetComponent<RoomCondition>().monsterListInRoom.Remove(this.gameObject);
         Destroy(this.transform.gameObject, 0.5f);
     }

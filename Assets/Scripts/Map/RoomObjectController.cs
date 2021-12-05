@@ -67,6 +67,10 @@ public class RoomObjectController : MonoBehaviour {
         }
     }
 
+    public void CloseDoorInvoke(float ftime) {
+        Invoke("CloseDoor", ftime);
+    }
+
     public void OpenDoor() {
         for (int i = 0; i < doorList.Count; i++)
         {

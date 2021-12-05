@@ -129,7 +129,7 @@ public class EnemyRangeFSM : EnemyBase {
             }
             lineRenderer.SetPosition(i, hit.point);
             //다음 레이캐스트 시작위치를 지정
-            NewPosition = hit.point;
+            NewPosition = new Vector3(hit.point.x, boltGenPosition.position.y, hit.point.z);
             NewDir = Vector3.Reflect(NewDir, hit.normal);
         }
     }

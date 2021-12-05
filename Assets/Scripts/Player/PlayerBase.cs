@@ -54,4 +54,10 @@ public class PlayerBase : MonoBehaviour {
         }
         PlayerModel.SetActive(true);
     }
+
+    public void HpGain() {
+        playerMaxHP++;
+        playerCurrentHP = playerMaxHP * 2;
+        playerHPIconController.HpImageUpdate(playerMaxHP, playerCurrentHP);
+    }
 }

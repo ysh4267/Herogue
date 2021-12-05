@@ -15,6 +15,7 @@ public class RoomGenerater : MonoBehaviour {
 
     //방으로 사용할 프리펩리스트와 만들어진 방 오브젝트 리스트
     [SerializeField] GameObject bossRoomObjectPrefab;
+    [SerializeField] GameObject itemRoomObjectPrefab;
     [SerializeField] GameObject startRoomObjectPrefab;
     [SerializeField] List<GameObject> normalRoomObjectPrefab;
     List<RoomData> roomDataList = new List<RoomData>();
@@ -43,6 +44,7 @@ public class RoomGenerater : MonoBehaviour {
 
         CreateBossRoom();
         CreateNormalRoom();
+        CreateItemRoom();
 
         roomInstObjectList[0].GetComponent<NavMeshSurface>().BuildNavMesh();
 
@@ -58,6 +60,39 @@ public class RoomGenerater : MonoBehaviour {
         {
             item.GetComponent<NavMeshSurface>().BuildNavMesh();
         }
+    }
+    
+    void CreateItemRoom() {
+            foreach (RoomData roomData in roomDataList) {
+            //시작지점이 아니라면
+            if (roomData.roomType == RoomData.RoomType.NormalRoom) {
+                //옆과 아랫칸이 비어있다면
+                if (roomData.leftRoom == false && roomData.upRoom == false) {
+                    //맵의 끝부분이 아니라면
+                    if (roomData.x > 0 && roomData.y < YSize) {
+                        //대각선이 비어있다면
+                        if (roomGenPosition[roomData.x - 1, roomData.y + 1] == false) {
+                            roomData.roomType = RoomData.RoomType.ItemRoom;
+                            roomInstObjectList.Add(roomData.InstantiateRoomPrefab(itemRoomObjectPrefab));
+                            return;
+                        }
+                    }
+                    //맵의 끝부분이라면
+                    else {
+                        roomData.roomType = RoomData.RoomType.BossRoom;
+                        roomInstObjectList.Add(roomData.InstantiateRoomPrefab(itemRoomObjectPrefab));
+                        return;
+                    }
+                }
+            }
+
+        }
+        //만족하는 방이 시작지점 뿐이었다면. 시작지점 오른쪽에 방을 추가함
+        RoomData tempRoomData = new RoomData();
+        tempRoomData.SetRoomPoint(6, 5);
+        tempRoomData.roomType = RoomData.RoomType.ItemRoom;
+        roomInstObjectList.Add(tempRoomData.InstantiateRoomPrefab(itemRoomObjectPrefab));
+        roomDataList.Add(tempRoomData);
     }
 
     void CreateStartRoom() {
