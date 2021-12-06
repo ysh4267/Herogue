@@ -25,6 +25,7 @@ public class EnemyRangeFSM : EnemyBase {
     new protected void Start() {
         base.Start();
 
+        //라인렌더러 초기화
         lineRenderer.startColor = new Color(1, 0, 0, 0.5f);
         lineRenderer.endColor = new Color(1, 0, 0, 0.5f);
         lineRenderer.startWidth = 0.3f;
@@ -135,6 +136,7 @@ public class EnemyRangeFSM : EnemyBase {
     }
 
     void DeleteDangerMarker() {
+        //lineRenderer의 값을 0으로 초기화후 삭제
         for (int i = 0; i < lineRenderer.positionCount; i++) {
             lineRenderer.SetPosition(i, Vector3.zero);
         }
@@ -163,7 +165,7 @@ public class EnemyRangeFSM : EnemyBase {
         }
     }
 
-    
+    //코루틴 Dead 상태 열거자
     protected virtual IEnumerator Dead() {
         yield return null;
         navMeshAgent.isStopped = true;
@@ -171,6 +173,7 @@ public class EnemyRangeFSM : EnemyBase {
         if (!enemyAnimator.GetCurrentAnimatorStateInfo(0).IsName("Dead")) {
             enemyAnimator.SetTrigger("Dead");
         }
+        //몬스터가 속한 방의 몬스터 리스트에서 자기 자신을 삭제
         enemyParentRoom.GetComponent<RoomCondition>().monsterListInRoom.Remove(this.gameObject);
         Destroy(this.transform.gameObject, 0.5f);
     }

@@ -13,7 +13,7 @@ public class EnemySmallRedDragon : EnemyRangeFSM {
     }
 
     protected override void InitMonster() {
-        // //몬스터를 초기화
+        //몬스터를 초기화
         enemyCurrentHP = enemyMaxHP;
         navMeshAgent.speed = enemyMoveSpeed;
         navMeshAgent.stoppingDistance = enemyStopRange;
@@ -24,6 +24,7 @@ public class EnemySmallRedDragon : EnemyRangeFSM {
         
     }
 
+    //enemyAttackRange범위만큼 원형 기즈모를 그림
     private void OnDrawGizmosSelected() {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, enemyAttackRange);

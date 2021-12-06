@@ -14,18 +14,22 @@ public class PlayerBullet : MonoBehaviour {
         
     }
 
+    //총알 초기화
     public void InitBullet(float _bulletSpd, float _bulletRange, float _bulletDamage) {
         bulletSpd = _bulletSpd;
         bulletRange = _bulletRange;
         bulletDamage = _bulletDamage;
 
+        //bulletRange초 후에 삭제
         Destroy(gameObject, bulletRange);
+        
         newDir = transform.forward;
         GetComponent<Rigidbody>().velocity = newDir * bulletSpd;
     }
 
     void OnCollisionEnter(Collision collision) {
         if (collision.transform.CompareTag("Monster")) {
+            //몬스터의 최상위 부모클래스에 Damaged를 구현후 사용 ()
             collision.transform.GetComponent<EnemyBase>().Damaged(bulletDamage);
             Destroy(gameObject);
         }
@@ -42,6 +46,7 @@ public class PlayerBullet : MonoBehaviour {
                 Destroy(gameObject);
             }
         }
+        //튜토리얼 훈련봇
         if (collision.transform.CompareTag("Training")) {
             collision.transform.GetComponent<TutorialDummyController>().Damaged();
             Destroy(gameObject);

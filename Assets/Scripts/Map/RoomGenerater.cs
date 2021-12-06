@@ -36,25 +36,34 @@ public class RoomGenerater : MonoBehaviour {
     }
 
     void GenerateRoom() {
+        //초기화
         InitiallizeRoomGenPosition();
         InitiallizeRoomDataList();
 
+        //센터에 방을 하나 만듬
         CreateStartRoom();
+        //만들어진 스타트 룸 기준으로 문어발식 방 생성
         GenerateRoomPoint(roomSize);
 
-        CreateBossRoom();
-        CreateNormalRoom();
-        CreateItemRoom();
+        //보스생성
+        CreateBossRoom(); 
+        //일반방 생성  
+        CreateNormalRoom(); 
+        //Item방
+        CreateItemRoom();   
 
+
+        //모든 방을 특정하고 나서 화면상에 존재하는 모든 맵 오브젝트에 네비메쉬를 적용
         roomInstObjectList[0].GetComponent<NavMeshSurface>().BuildNavMesh();
 
+        //상하좌우의 벽이나 문과같은 오브젝트 활성화
         foreach (var data in roomDataList) {
             data.DirectionalInfoUpdate();
         }
-
-        //BuildRoomNavMash();
     }
 
+
+    //모든방에서 네비매쉬를 따로 만들지 않아도 되어서 사용하지 않음
     void BuildRoomNavMash() {
         foreach (var item in roomInstObjectList)
         {

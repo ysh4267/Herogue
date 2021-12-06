@@ -12,7 +12,7 @@ public class PlayerAnimationController : MonoBehaviour {
     }
 
     void AnimationStateUpdate() {
-        
+        //클릭시에 공격
         if (Input.GetMouseButton(0)) {
             Anim.SetFloat("AttackSpd", playerBase.attackSpd);
             Anim.SetBool("Walk", false);

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//몬스터 투사체 회전
 public class EnemyCubeBulletRotation : MonoBehaviour {
     public float speed;
     // Start is called before the first frame update

@@ -27,10 +27,12 @@ public class EnemySmallRedDragonBulletController : MonoBehaviour {
     }
 
     private void OnCollisionEnter(Collision collision) {
+        //플레이어와 부딪혔을때
         if (collision.transform.CompareTag("Player")) {
             collision.transform.GetComponent<PlayerBase>().Damaged(bulletDamage);
             Destroy(gameObject);
         }
+        //벽에 닿았을때
         if (collision.transform.CompareTag("Wall")) {
             bounceCnt--;
             if (bounceCnt > 0) {

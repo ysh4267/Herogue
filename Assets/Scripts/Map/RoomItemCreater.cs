@@ -10,6 +10,7 @@ public class RoomItemCreater : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //itemSpawnPoint지점에 itemPrefabList중에 있는 아이템 소환
         Instantiate(itemPrefabList[Random.Range(0, itemPrefabList.Count)], itemSpawnPoint.transform.position, Quaternion.identity, itemSpawnPoint.transform);
     }
 

@@ -28,6 +28,7 @@ public class RoomObjectController : MonoBehaviour {
 
     }
 
+    //상하좌우에 있는 오브젝트의 온오프를 변경 및 열리고 닫힐 문을 doorList에 추가
     public void DirectionalInfoUpdate(bool rightRoom, bool leftRoom, bool upRoom, bool downRoom) {
         EastWallObject.SetActive(true);
         WestWallObject.SetActive(true);
@@ -60,6 +61,7 @@ public class RoomObjectController : MonoBehaviour {
         }
     }
 
+    //문 닫기
     public void CloseDoor() {
         for (int i = 0; i < doorList.Count; i++)
         {
@@ -67,10 +69,7 @@ public class RoomObjectController : MonoBehaviour {
         }
     }
 
-    public void CloseDoorInvoke(float ftime) {
-        Invoke("CloseDoor", ftime);
-    }
-
+    //문 열기
     public void OpenDoor() {
         for (int i = 0; i < doorList.Count; i++)
         {

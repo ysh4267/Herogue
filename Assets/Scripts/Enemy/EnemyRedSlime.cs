@@ -31,6 +31,7 @@ public class EnemyRedSlime : EnemyMeleeFSM {
 
     }
 
+    //애니메이션 이벤트용 함수
     public override void StartAttackHit() {
         meleeAtkArea.SetActive(true);
     }

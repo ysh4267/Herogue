@@ -3,16 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerBase : MonoBehaviour {
-    public int playerMaxHP;
-    public int playerCurrentHP;
+    public int playerMaxHP;     //최대체력칸
+    public int playerCurrentHP; //최대체력칸 * 2가 최대치인 현재체력
     public float attackDmg = 1f;
+    //공격 속도
     public float attackSpd;
-    public float bulletSpd = 30f; //투사체 속도
-    public float bulletRange = 3.5f; //투사체 속도
-    public float moveSpeed = 25f; //이동속도
+    public float bulletSpd; //투사체 속도
+    public float bulletRange; //투사체 속도
+    public float moveSpeed; //이동 속도
+    //피격무적
     public bool isInvincibility = false;
 
     public GameObject PlayerModel;
+    //UI체력아이콘 컨트롤러(옵저버화 예정)
     public PlayerHPIconController playerHPIconController;
 
     WaitForSeconds Delay100 = new WaitForSeconds(0.1f);

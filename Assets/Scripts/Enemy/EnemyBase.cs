@@ -78,6 +78,7 @@ public class EnemyBase : MonoBehaviour {
         enemyCurrentHP -= _damage; //체력감소
     }
 
+    //애니메이션 이벤트 함수
     public virtual void StartAttackHit() {
 
     }
