@@ -481,7 +481,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 705ca26d66938714e9b7ab709be8a479, type: 3}
+    m_Font: {fileID: 12800000, guid: 3eaf4acf8538a6c458b065c66f701381, type: 3}
     m_FontSize: 100
     m_FontStyle: 0
     m_BestFit: 0
@@ -1122,7 +1122,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 705ca26d66938714e9b7ab709be8a479, type: 3}
+    m_Font: {fileID: 12800000, guid: 3eaf4acf8538a6c458b065c66f701381, type: 3}
     m_FontSize: 100
     m_FontStyle: 0
     m_BestFit: 0

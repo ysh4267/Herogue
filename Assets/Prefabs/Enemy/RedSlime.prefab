@@ -415,6 +415,7 @@ GameObject:
   - component: {fileID: 248566356564116782}
   - component: {fileID: 4684823741070686683}
   - component: {fileID: 7410740786580622697}
+  - component: {fileID: 8627283250061666485}
   m_Layer: 10
   m_Name: RedSlime
   m_TagString: Monster
@@ -465,7 +466,7 @@ NavMeshAgent:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4684823741070686684}
-  m_Enabled: 1
+  m_Enabled: 0
   m_AgentTypeID: 0
   m_Radius: 0.5
   m_Speed: 3.5
@@ -534,6 +535,18 @@ MonoBehaviour:
   navMeshAgent: {fileID: 4684823741070686682}
   meleeAtkArea: {fileID: 549360052561927290}
   atkAreaController: {fileID: 5274169581176267431}
+--- !u!114 &8627283250061666485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4684823741070686684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aac4b99b743c6b44fb34f803b7216fe5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4685640478304383782
 GameObject:
   m_ObjectHideFlags: 0

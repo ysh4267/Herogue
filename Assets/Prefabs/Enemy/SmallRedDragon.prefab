@@ -1379,6 +1379,7 @@ GameObject:
   - component: {fileID: 3420246551852280285}
   - component: {fileID: 3420246551852280284}
   - component: {fileID: 3420246551852280287}
+  - component: {fileID: 6537236231688932843}
   m_Layer: 10
   m_Name: SmallRedDragon
   m_TagString: Monster
@@ -1430,7 +1431,7 @@ NavMeshAgent:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3420246551852280283}
-  m_Enabled: 1
+  m_Enabled: 0
   m_AgentTypeID: 0
   m_Radius: 1.3
   m_Speed: 3.5
@@ -1505,6 +1506,18 @@ MonoBehaviour:
   enemyBullet: {fileID: 4705694143111568576, guid: 2e5418b26fe1d17498939734af7a021d, type: 3}
   navMeshAgent: {fileID: 3420246551852280286}
   enemyStopRange: 7
+--- !u!114 &6537236231688932843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3420246551852280283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aac4b99b743c6b44fb34f803b7216fe5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3420267734179723829
 GameObject:
   m_ObjectHideFlags: 0
