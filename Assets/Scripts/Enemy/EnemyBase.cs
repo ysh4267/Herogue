@@ -74,7 +74,7 @@ public class EnemyBase : MonoBehaviour {
         }
     }
 
-    public void Damaged(float _damage) {
+    public virtual void Damaged(float _damage) {
         enemyCurrentHP -= _damage; //체력감소
     }
 

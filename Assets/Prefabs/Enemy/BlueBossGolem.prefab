@@ -10,13 +10,14 @@ GameObject:
   m_Component:
   - component: {fileID: 181136199079041053}
   - component: {fileID: 4126334855866085508}
+  - component: {fileID: 5115217165284057171}
   m_Layer: 10
   m_Name: MeleeAtkArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &181136199079041053
 Transform:
   m_ObjectHideFlags: 0
@@ -44,6 +45,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2, y: 0.5, z: 4}
   m_Center: {x: 0, y: 0, z: 1.5}
+--- !u!114 &5115217165284057171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362307410114592840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b1bb16dfcf1166418cf1f25adcab756, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4415455278223108214
 GameObject:
   m_ObjectHideFlags: 0
@@ -56,7 +69,7 @@ GameObject:
   m_Layer: 10
   m_Name: BulletPosition
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4162164826716764455, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -68,7 +81,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4415455278223108214}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.5, z: 0}
+  m_LocalPosition: {x: 0, y: 0.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6441769080001336405}
@@ -518,6 +531,7 @@ GameObject:
   - component: {fileID: 6443866897464654655}
   - component: {fileID: 6443866897464654654}
   - component: {fileID: 4570146014549847840}
+  - component: {fileID: 5511440576872746068}
   m_Layer: 10
   m_Name: BlueBossGolem
   m_TagString: Monster
@@ -569,7 +583,7 @@ NavMeshAgent:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6443866897464655041}
-  m_Enabled: 1
+  m_Enabled: 0
   m_AgentTypeID: 0
   m_Radius: 0.5
   m_Speed: 3.5
@@ -636,11 +650,26 @@ MonoBehaviour:
   enemyParentRoom: {fileID: 0}
   enemyAnimator: {fileID: 6357188203759760153}
   enemyRigidBody: {fileID: 6443866897464654655}
+  enemyBulletPosition: {fileID: 4415455278223108214}
+  enemyMeleeAtkArea: {fileID: 362307410114592840}
+  enemyBulletPrefab: {fileID: 4705694143111568576, guid: 73f3c1de63dc1104c950013e9036909a, type: 3}
   navMeshAgent: {fileID: 6443866897464655040}
   rangeAttack1CoolTime: 7
   rangeAttack2CoolTime: 15
   groggyTime: 10
   maxGroggyGague: 20
+--- !u!114 &5511440576872746068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6443866897464655041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aac4b99b743c6b44fb34f803b7216fe5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6443872823389399103
 GameObject:
   m_ObjectHideFlags: 0

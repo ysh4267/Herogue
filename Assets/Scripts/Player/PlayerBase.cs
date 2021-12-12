@@ -17,6 +17,7 @@ public class PlayerBase : MonoBehaviour {
     public GameObject PlayerModel;
     //UI체력아이콘 컨트롤러(옵저버화 예정)
     public PlayerHPIconController playerHPIconController;
+    public GameObject gameOverUI;
 
     WaitForSeconds Delay100 = new WaitForSeconds(0.1f);
     WaitForSeconds Delay500 = new WaitForSeconds(0.5f);
@@ -32,13 +33,15 @@ public class PlayerBase : MonoBehaviour {
     }
 
     public void Damaged(int monsterDamage) {
-        if (!isInvincibility) {
+        if (isInvincibility) return;
+        else if (!isInvincibility) {
             StartCoroutine(DamagedInvince());
         }
         playerCurrentHP -= monsterDamage;
         if (playerCurrentHP <= 0) {
             playerCurrentHP = 0;
-            //gameOver
+            Time.timeScale = 0f;
+            gameOverUI.SetActive(true);
         }
         playerHPIconController.HpImageUpdate(playerMaxHP, playerCurrentHP);
     }
